@@ -1,0 +1,3 @@
+Animal_ID,original_label,corrected_label,reason,original_files_overwritten
+2319,C,B,author_confirmed_metadata_entry_error,False
+2353,B,C,author_confirmed_metadata_entry_error,False

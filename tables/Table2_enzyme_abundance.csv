@@ -1,0 +1,5 @@
+Feature_ID,Present_KOs,Mean_percent_all_genes,CV_percent,Detected_animals
+glutamine_synthetase,1,0.0062109446549876,21.24131446141919,30
+glutamate_synthase,2,0.00564426557683,26.54533635642464,30
+glutamate_dehydrogenase,3,0.009141498428662,21.52129117978846,30
+urease_structural_genes,4,3.492178993382496e-05,65.64308879593,30

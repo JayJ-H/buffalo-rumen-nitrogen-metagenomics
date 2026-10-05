@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Renviron
+.env
+.DS_Store
+Thumbs.db
+analysis/R-library/
+*.zip

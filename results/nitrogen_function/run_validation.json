@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "n_animals": 30,
+  "diet_responses": 23,
+  "contrasts": 230,
+  "carbon_pairs": 80,
+  "diet_HC3_supported": 0,
+  "diet_permutation_supported": 0,
+  "contrasts_supported": 0,
+  "carbon_HC3_supported": 0,
+  "carbon_both_supported": 0,
+  "max_package_error": 3.985e-12,
+  "historical_hashes_unchanged": true,
+  "membership_redefined": false
+}

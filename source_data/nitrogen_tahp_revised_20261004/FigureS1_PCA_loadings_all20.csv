@@ -1,0 +1,21 @@
+"Feature_ID","Label","PC1","PC2"
+"Arginine_biosynthesis","Arginine biosynthesis",-0.230517832296327,-0.0122179170657539
+"Alanine,_aspartate_and_glutamate_metabolism","Ala / Asp / Glu metabolism",-0.2314142461417,-0.0329993070538354
+"Glycine,_serine_and_threonine_metabolism","Gly / Ser / Thr metabolism",-0.230792479029424,-0.0295579314032335
+"Cysteine_and_methionine_metabolism","Cys / Met metabolism",-0.230799269858562,0.0310599711472821
+"Valine,_leucine_and_isoleucine_degradation","BCAA degradation",-0.227361534999369,-0.1319270127529
+"Valine,_leucine_and_isoleucine_biosynthesis","BCAA biosynthesis",-0.221616134919775,0.189529789314173
+"Lysine_biosynthesis","Lysine biosynthesis",-0.229266320383358,-0.0045373362087395
+"Lysine_degradation","Lysine degradation",-0.221979354762669,-0.141305837696199
+"Arginine_and_proline_metabolism","Arg / Pro metabolism",-0.229155243189392,-0.0926249680657283
+"Histidine_metabolism","Histidine metabolism",-0.228667649150192,0.105155906318142
+"Tyrosine_metabolism","Tyrosine metabolism",-0.217578141783996,-0.190284544083889
+"Phenylalanine_metabolism","Phenylalanine metabolism",-0.230803743233506,-0.0357689922377261
+"Tryptophan_metabolism","Tryptophan metabolism",-0.211624582657501,-0.254819356732624
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis","Phe / Tyr / Trp biosynthesis",-0.229592464104234,0.0295609425599847
+"Nitrogen_metabolism","Nitrogen metabolism",-0.231226255480171,-0.0213721556033024
+"Biosynthesis_of_amino_acids","Amino-acid biosynthesis",-0.229977333387326,0.0657386215804194
+"glutamine_synthetase","Glutamine synthetase (GS)",-0.230592184933359,0.0235985601866969
+"glutamate_synthase","Glutamate synthase (GOGAT)",-0.228121654846653,0.0379962562775477
+"glutamate_dehydrogenase","Glutamate dehydrogenase (GDH)",-0.230380646289177,-0.0618641335701828
+"urease_structural_genes","Urease structural genes",-0.128758319935989,0.888859676488141

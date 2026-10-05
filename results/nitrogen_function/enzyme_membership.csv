@@ -1,0 +1,15 @@
+Feature_ID,EC,KO,Present_in_catalog,Source_URL
+glutamine_synthetase,6.3.1.2,K01915,True,https://www.genome.jp/entry/K01915
+glutamate_synthase,1.4.1.13,K00265,True,https://www.genome.jp/entry/K00265
+glutamate_synthase,1.4.1.13,K00266,True,https://www.genome.jp/entry/K00266
+glutamate_synthase,1.4.1.14,K00264,False,https://www.genome.jp/entry/K00264
+glutamate_synthase,1.4.7.1,K00284,False,https://www.genome.jp/entry/K00284
+glutamate_dehydrogenase,1.4.1.2,K00260,True,https://www.genome.jp/entry/K00260
+glutamate_dehydrogenase,1.4.1.2,K15371,False,https://www.genome.jp/entry/K15371
+glutamate_dehydrogenase,1.4.1.3,K00261,True,https://www.genome.jp/entry/K00261
+glutamate_dehydrogenase,1.4.1.4,K00262,True,https://www.genome.jp/entry/K00262
+urease_structural_genes,3.5.1.5,K01427,False,https://www.genome.jp/entry/K01427
+urease_structural_genes,3.5.1.5,K01428,True,https://www.genome.jp/entry/K01428
+urease_structural_genes,3.5.1.5,K01429,True,https://www.genome.jp/entry/K01429
+urease_structural_genes,3.5.1.5,K01430,True,https://www.genome.jp/entry/K01430
+urease_structural_genes,3.5.1.5,K14048,True,https://www.genome.jp/entry/K14048

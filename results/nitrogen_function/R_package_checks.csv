@@ -1,0 +1,127 @@
+"Test","Max_error"
+"all_gene_mass Arginine_biosynthesis",2.34187669256869e-17
+"all_gene_mass Alanine,_aspartate_and_glutamate_metabolism",3.98986399474666e-17
+"all_gene_mass Glycine,_serine_and_threonine_metabolism",5.89805981832114e-17
+"all_gene_mass Cysteine_and_methionine_metabolism",6.93889390390723e-17
+"all_gene_mass Valine,_leucine_and_isoleucine_degradation",6.93889390390723e-17
+"all_gene_mass Valine,_leucine_and_isoleucine_biosynthesis",8.84708972748172e-17
+"all_gene_mass Lysine_biosynthesis",1.07552855510562e-16
+"all_gene_mass Lysine_degradation",6.07153216591882e-17
+"all_gene_mass Arginine_and_proline_metabolism",3.90312782094782e-17
+"all_gene_mass Histidine_metabolism",8.23993651088983e-17
+"all_gene_mass Tyrosine_metabolism",9.10729824887824e-18
+"all_gene_mass Phenylalanine_metabolism",5.55111512312578e-17
+"all_gene_mass Tryptophan_metabolism",1.04083408558608e-17
+"all_gene_mass Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",9.19403442267708e-17
+"all_gene_mass Nitrogen_metabolism",4.16333634234434e-17
+"all_gene_mass Biosynthesis_of_amino_acids",7.63278329429795e-17
+"all_gene_mass glutamine_synthetase",6.33174068731535e-17
+"all_gene_mass glutamate_synthase",7.97972798949331e-17
+"all_gene_mass glutamate_dehydrogenase",7.54604712049911e-17
+"all_gene_mass urease_structural_genes",5.13478148889135e-16
+"all_gene_mass BCAA_synthesis_to_degradation",1.21430643318376e-17
+"all_gene_mass lysine_synthesis_to_degradation",1.0842021724855e-17
+"all_gene_mass GS_to_GDH",1.30104260698261e-18
+"single_KO_annotated_gene_mass Arginine_biosynthesis",7.58941520739853e-18
+"single_KO_annotated_gene_mass Alanine,_aspartate_and_glutamate_metabolism",2.42861286636753e-17
+"single_KO_annotated_gene_mass Glycine,_serine_and_threonine_metabolism",3.42607886505419e-17
+"single_KO_annotated_gene_mass Cysteine_and_methionine_metabolism",1.86482773667507e-17
+"single_KO_annotated_gene_mass Valine,_leucine_and_isoleucine_degradation",3.81639164714898e-17
+"single_KO_annotated_gene_mass Valine,_leucine_and_isoleucine_biosynthesis",3.27429056090622e-17
+"single_KO_annotated_gene_mass Lysine_biosynthesis",7.11236625150491e-17
+"single_KO_annotated_gene_mass Lysine_degradation",3.29597460435593e-17
+"single_KO_annotated_gene_mass Arginine_and_proline_metabolism",6.83047368665868e-18
+"single_KO_annotated_gene_mass Histidine_metabolism",3.03576608295941e-17
+"single_KO_annotated_gene_mass Tyrosine_metabolism",1.21972744404619e-18
+"single_KO_annotated_gene_mass Phenylalanine_metabolism",1.64798730217797e-17
+"single_KO_annotated_gene_mass Tryptophan_metabolism",1.19262238973405e-18
+"single_KO_annotated_gene_mass Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",4.85722573273506e-17
+"single_KO_annotated_gene_mass Nitrogen_metabolism",1.73472347597681e-17
+"single_KO_annotated_gene_mass Biosynthesis_of_amino_acids",3.46944695195361e-17
+"single_KO_annotated_gene_mass glutamine_synthetase",2.12503625807159e-17
+"single_KO_annotated_gene_mass glutamate_synthase",1.09287578986539e-16
+"single_KO_annotated_gene_mass glutamate_dehydrogenase",1.64798730217797e-17
+"single_KO_annotated_gene_mass urease_structural_genes",4.44089209850063e-16
+"single_KO_annotated_gene_mass BCAA_synthesis_to_degradation",1.04083408558608e-17
+"single_KO_annotated_gene_mass lysine_synthesis_to_degradation",9.75781955236954e-18
+"single_KO_annotated_gene_mass GS_to_GDH",1.24683249835833e-18
+"Arginine_biosynthesis__starch_alpha_glucan",4.17998968771371e-14
+"Arginine_biosynthesis__cellulose_chain",5.78204151224782e-13
+"Arginine_biosynthesis__xylan",7.27959359458907e-13
+"Arginine_biosynthesis__pectin_backbone",1.9684254226604e-13
+"Alanine,_aspartate_and_glutamate_metabolism__starch_alpha_glucan",7.66331442747514e-14
+"Alanine,_aspartate_and_glutamate_metabolism__cellulose_chain",4.53220794227605e-13
+"Alanine,_aspartate_and_glutamate_metabolism__xylan",6.33298968821805e-13
+"Alanine,_aspartate_and_glutamate_metabolism__pectin_backbone",5.34516875205782e-13
+"Glycine,_serine_and_threonine_metabolism__starch_alpha_glucan",2.57016630200724e-13
+"Glycine,_serine_and_threonine_metabolism__cellulose_chain",1.58895119284352e-12
+"Glycine,_serine_and_threonine_metabolism__xylan",5.04707386994596e-13
+"Glycine,_serine_and_threonine_metabolism__pectin_backbone",1.17328369242387e-12
+"Cysteine_and_methionine_metabolism__starch_alpha_glucan",6.26443341644745e-14
+"Cysteine_and_methionine_metabolism__cellulose_chain",2.75501843560733e-12
+"Cysteine_and_methionine_metabolism__xylan",3.06282776918465e-14
+"Cysteine_and_methionine_metabolism__pectin_backbone",1.39277478439226e-13
+"Valine,_leucine_and_isoleucine_degradation__starch_alpha_glucan",1.87044824073723e-13
+"Valine,_leucine_and_isoleucine_degradation__cellulose_chain",7.70133956606855e-13
+"Valine,_leucine_and_isoleucine_degradation__xylan",1.0325074129014e-13
+"Valine,_leucine_and_isoleucine_degradation__pectin_backbone",1.26509913656037e-13
+"Valine,_leucine_and_isoleucine_biosynthesis__starch_alpha_glucan",2.94264612676898e-13
+"Valine,_leucine_and_isoleucine_biosynthesis__cellulose_chain",1.06978315095319e-12
+"Valine,_leucine_and_isoleucine_biosynthesis__xylan",9.89097692638552e-13
+"Valine,_leucine_and_isoleucine_biosynthesis__pectin_backbone",1.29951605032375e-12
+"Lysine_biosynthesis__starch_alpha_glucan",3.80750986295197e-13
+"Lysine_biosynthesis__cellulose_chain",2.52697862634932e-12
+"Lysine_biosynthesis__xylan",4.82225370745937e-13
+"Lysine_biosynthesis__pectin_backbone",9.34030630617144e-13
+"Lysine_degradation__starch_alpha_glucan",6.43929354282591e-14
+"Lysine_degradation__cellulose_chain",9.37305788539788e-14
+"Lysine_degradation__xylan",3.65485419706602e-13
+"Lysine_degradation__pectin_backbone",2.86853873987525e-13
+"Arginine_and_proline_metabolism__starch_alpha_glucan",8.61810622865278e-14
+"Arginine_and_proline_metabolism__cellulose_chain",1.23900889548167e-13
+"Arginine_and_proline_metabolism__xylan",2.54241072639161e-14
+"Arginine_and_proline_metabolism__pectin_backbone",2.22044604925031e-15
+"Histidine_metabolism__starch_alpha_glucan",6.86506407276966e-13
+"Histidine_metabolism__cellulose_chain",7.44293515708705e-13
+"Histidine_metabolism__xylan",8.91370310895923e-14
+"Histidine_metabolism__pectin_backbone",6.12593309412546e-13
+"Tyrosine_metabolism__starch_alpha_glucan",3.08267300574983e-13
+"Tyrosine_metabolism__cellulose_chain",2.29594121492482e-13
+"Tyrosine_metabolism__xylan",1.77302617032637e-13
+"Tyrosine_metabolism__pectin_backbone",1.88443011195361e-14
+"Phenylalanine_metabolism__starch_alpha_glucan",3.06289715812369e-13
+"Phenylalanine_metabolism__cellulose_chain",2.14508966145388e-13
+"Phenylalanine_metabolism__xylan",4.23272528138341e-13
+"Phenylalanine_metabolism__pectin_backbone",9.18848330755395e-13
+"Tryptophan_metabolism__starch_alpha_glucan",3.39173134022985e-13
+"Tryptophan_metabolism__cellulose_chain",2.59216259568262e-13
+"Tryptophan_metabolism__xylan",9.62771529167128e-14
+"Tryptophan_metabolism__pectin_backbone",1.77635683940025e-14
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis__starch_alpha_glucan",5.10147479815259e-14
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis__cellulose_chain",8.01247956871975e-13
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis__xylan",2.7824964554668e-13
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis__pectin_backbone",2.25319762847676e-13
+"Nitrogen_metabolism__starch_alpha_glucan",1.27675647831893e-15
+"Nitrogen_metabolism__cellulose_chain",6.27276008913213e-13
+"Nitrogen_metabolism__xylan",2.66869859544272e-13
+"Nitrogen_metabolism__pectin_backbone",1.35746969220918e-12
+"Biosynthesis_of_amino_acids__starch_alpha_glucan",2.0256019084286e-13
+"Biosynthesis_of_amino_acids__cellulose_chain",3.98503452458954e-12
+"Biosynthesis_of_amino_acids__xylan",5.58622592627955e-13
+"Biosynthesis_of_amino_acids__pectin_backbone",4.85278484063656e-13
+"glutamine_synthetase__starch_alpha_glucan",3.6917691126348e-13
+"glutamine_synthetase__cellulose_chain",4.59354776438659e-13
+"glutamine_synthetase__xylan",2.91766610871491e-13
+"glutamine_synthetase__pectin_backbone",5.21804821573824e-14
+"glutamate_synthase__starch_alpha_glucan",4.91273688396632e-13
+"glutamate_synthase__cellulose_chain",3.74394959479218e-12
+"glutamate_synthase__xylan",1.44662060108658e-13
+"glutamate_synthase__pectin_backbone",1.41731071323647e-12
+"glutamate_dehydrogenase__starch_alpha_glucan",2.33618679956749e-13
+"glutamate_dehydrogenase__cellulose_chain",3.14054338090841e-14
+"glutamate_dehydrogenase__xylan",1.23506760374426e-12
+"glutamate_dehydrogenase__pectin_backbone",4.11559675228546e-13
+"urease_structural_genes__starch_alpha_glucan",3.1685765122802e-13
+"urease_structural_genes__cellulose_chain",1.88982163251694e-12
+"urease_structural_genes__xylan",4.83835194131643e-13
+"urease_structural_genes__pectin_backbone",8.35553848332893e-13

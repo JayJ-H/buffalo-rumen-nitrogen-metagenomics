@@ -1,0 +1,154 @@
+{
+  "status": "PASS",
+  "numeric_tables_checked": 37,
+  "tables": [
+    {
+      "file": "results/nitrogen_function/bootstrap_indices.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/carbon_function_associations.csv",
+      "max_absolute_error": 1.9984014443252818e-15
+    },
+    {
+      "file": "results/nitrogen_function/carbon_LOO.csv",
+      "max_absolute_error": 1.9984014443252818e-15
+    },
+    {
+      "file": "results/nitrogen_function/carbon_pair_membership.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/carbon_pair_scores.csv",
+      "max_absolute_error": 1.7763568394002505e-15
+    },
+    {
+      "file": "results/nitrogen_function/diet_adjusted_means.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/diet_all_contrasts.csv",
+      "max_absolute_error": 9.992007221626409e-16
+    },
+    {
+      "file": "results/nitrogen_function/diet_group_summary.csv",
+      "max_absolute_error": 9.974659986866641e-17
+    },
+    {
+      "file": "results/nitrogen_function/diet_LOO.csv",
+      "max_absolute_error": 9.992007221626409e-15
+    },
+    {
+      "file": "results/nitrogen_function/diet_omnibus.csv",
+      "max_absolute_error": 9.992007221626409e-16
+    },
+    {
+      "file": "results/nitrogen_function/diet_permutation_indices.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/diet_within_KO_sensitivity.csv",
+      "max_absolute_error": 9.992007221626409e-15
+    },
+    {
+      "file": "results/nitrogen_function/functional_description.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/KO_contribution.csv",
+      "max_absolute_error": 1.1102230246251565e-16
+    },
+    {
+      "file": "results/nitrogen_function/pathway_membership_summary.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/R_package_checks.csv",
+      "max_absolute_error": 4.4009240696141296e-13
+    },
+    {
+      "file": "results/nitrogen_function/scores_per_animal.csv",
+      "max_absolute_error": 1.7763568394002505e-15
+    },
+    {
+      "file": "results/nitrogen_function/within_diet_permutation_indices.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "results/nitrogen_function/within_KO_scores_per_animal.csv",
+      "max_absolute_error": 8.881784197001252e-16
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1a_all20_individual_abundance.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1b_enzyme_diet_individuals.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1c_all_nitrogen_KO_contributions.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1c_KO_composition.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1d_nitrogen_adjusted_means.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure1d_nitrogen_individuals.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure2a_complete80_associations.csv",
+      "max_absolute_error": 1.9984014443252818e-15
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure2b_GS_starch_adjusted_residuals.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure2c_four_prespecified_HC3_effects.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/Figure2d_all120_leave_one_out_effects.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS1_PCA_diet_centroids.csv",
+      "max_absolute_error": 2.983724378680108e-16
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS1_PCA_loadings_all20.csv",
+      "max_absolute_error": 1.0269562977782698e-15
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS1_PCA_scores_all30.csv",
+      "max_absolute_error": 9.992007221626409e-16
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS1_PCA_variance_all20.csv",
+      "max_absolute_error": 9.947598300641403e-14
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS2_all230_volcano_coordinates.csv",
+      "max_absolute_error": 9.992007221626409e-16
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS3_all600_profile_heatmap_values.csv",
+      "max_absolute_error": 9.769962616701378e-15
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS4_all600_diet_violin_values.csv",
+      "max_absolute_error": 0.0
+    },
+    {
+      "file": "source_data/nitrogen_tahp_revised_20261004/FigureS4_display_scaling.csv",
+      "max_absolute_error": 0.0
+    }
+  ]
+}

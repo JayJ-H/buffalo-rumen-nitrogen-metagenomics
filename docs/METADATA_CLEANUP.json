@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "cleaned_exports": {
+    "pdf": 6,
+    "raster": 19,
+    "svg": 6
+  },
+  "numeric_data_bytes_unchanged": 47,
+  "raster_pixels_and_dpi_preserved": true,
+  "pdf_text_preserved": true,
+  "private_path_scan": "PASS",
+  "package_timestamp_utc": "2000-01-01T00:00:00Z",
+  "scientific_metadata_retained": true
+}

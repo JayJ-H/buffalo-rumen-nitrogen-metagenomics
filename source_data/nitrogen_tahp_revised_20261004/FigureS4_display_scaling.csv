@@ -1,0 +1,1471 @@
+"sample_id","animal_id","diet_group","Feature_ID","log_fraction","percent_all_genes","Family","Feature","Facet","Display_exponent","Display_abundance","Display_facet"
+"A_1520A","1520","A","Arginine_biosynthesis",-7.2811585156238,0.0688387593769122,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.88387593769122,"Arginine_biosynthesis"
+"A_2277A","2277","A","Arginine_biosynthesis",-7.37360052706296,0.0627604399518051,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.27604399518051,"Arginine_biosynthesis"
+"A_2283A","2283","A","Arginine_biosynthesis",-7.43074842789281,0.0592743719921675,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.92743719921675,"Arginine_biosynthesis"
+"A_2315A","2315","A","Arginine_biosynthesis",-7.52880721008845,0.0537378854636608,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.37378854636608,"Arginine_biosynthesis"
+"A_2347A","2347","A","Arginine_biosynthesis",-7.6209364851769,0.0490082660996025,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,4.90082660996025,"Arginine_biosynthesis"
+"A_9613A","9613","A","Arginine_biosynthesis",-7.499345872312,0.0553446276301663,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.53446276301663,"Arginine_biosynthesis"
+"B_1522A","1522","B","Arginine_biosynthesis",-7.20040104206697,0.0746286456091357,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,7.46286456091357,"Arginine_biosynthesis"
+"B_2317A","2317","B","Arginine_biosynthesis",-7.39767118953894,0.0612677911762803,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.12677911762803,"Arginine_biosynthesis"
+"B_2319A","2319","B","Arginine_biosynthesis",-7.25098538945883,0.0709474935159592,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,7.09474935159593,"Arginine_biosynthesis"
+"B_2343A","2343","B","Arginine_biosynthesis",-7.36669989061809,0.0631950246620462,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.31950246620462,"Arginine_biosynthesis"
+"B_2351A","2351","B","Arginine_biosynthesis",-7.49446773197802,0.0556152660599164,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.56152660599164,"Arginine_biosynthesis"
+"B_2373A","2373","B","Arginine_biosynthesis",-7.33145369872651,0.0654621272993586,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.54621272993586,"Arginine_biosynthesis"
+"C_1512A","1512","C","Arginine_biosynthesis",-7.17256077542895,0.0767355188772418,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,7.67355188772418,"Arginine_biosynthesis"
+"C_2323A","2323","C","Arginine_biosynthesis",-7.3598891620779,0.0636268978361814,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.36268978361814,"Arginine_biosynthesis"
+"C_2337A","2337","C","Arginine_biosynthesis",-7.41031539657767,0.0604979855865602,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.04979855865602,"Arginine_biosynthesis"
+"C_2339A","2339","C","Arginine_biosynthesis",-7.38558429814643,0.0620128217958913,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.20128217958913,"Arginine_biosynthesis"
+"C_2349A","2349","C","Arginine_biosynthesis",-8.31690259262069,0.0244351549581574,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,2.44351549581574,"Arginine_biosynthesis"
+"C_2353A","2353","C","Arginine_biosynthesis",-7.53560276175145,0.0533739448758145,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.33739448758145,"Arginine_biosynthesis"
+"D_1524A","1524","D","Arginine_biosynthesis",-7.4029681989705,0.0609441131282263,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.09441131282263,"Arginine_biosynthesis"
+"D_2297A","2297","D","Arginine_biosynthesis",-7.6104194713053,0.0495264065834768,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,4.95264065834768,"Arginine_biosynthesis"
+"D_2325A","2325","D","Arginine_biosynthesis",-7.62526987534038,0.048796353642648,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,4.8796353642648,"Arginine_biosynthesis"
+"D_2331A","2331","D","Arginine_biosynthesis",-7.58692903205052,0.0507035756078329,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.07035756078329,"Arginine_biosynthesis"
+"D_2357A","2357","D","Arginine_biosynthesis",-7.6112621095037,0.0494846913193656,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,4.94846913193656,"Arginine_biosynthesis"
+"D_9633A","9633","D","Arginine_biosynthesis",-7.50388344731803,0.0550940661318226,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.50940661318226,"Arginine_biosynthesis"
+"E_1506A","1506","E","Arginine_biosynthesis",-7.44378962554929,0.0585063818312883,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.85063818312883,"Arginine_biosynthesis"
+"E_2307A","2307","E","Arginine_biosynthesis",-7.52312304154723,0.0540442104383032,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.40442104383032,"Arginine_biosynthesis"
+"E_2327A","2327","E","Arginine_biosynthesis",-7.36119989271168,0.0635435547441586,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.35435547441586,"Arginine_biosynthesis"
+"E_2329A","2329","E","Arginine_biosynthesis",-7.39617718484758,0.0613593939541785,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.13593939541785,"Arginine_biosynthesis"
+"E_2375A","2375","E","Arginine_biosynthesis",-7.46147863794267,0.0574805613418871,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,5.74805613418871,"Arginine_biosynthesis"
+"E_9611A","9611","E","Arginine_biosynthesis",-7.33829873064726,0.0650155670515799,"Pathway","Arginine biosynthesis","Arginine biosynthesis
+BH q = 0.184",-2,6.50155670515799,"Arginine_biosynthesis"
+"A_1520A","1520","A","Alanine,_aspartate_and_glutamate_metabolism",-6.81787603308262,0.109404216565087,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,1.09404216565087,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_2277A","2277","A","Alanine,_aspartate_and_glutamate_metabolism",-6.99003291937724,0.0921016211890202,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.921016211890202,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_2283A","2283","A","Alanine,_aspartate_and_glutamate_metabolism",-6.98935773026995,0.0921638281987951,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.921638281987951,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_2315A","2315","A","Alanine,_aspartate_and_glutamate_metabolism",-7.1181708230915,0.0810247482436532,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.810247482436532,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_2347A","2347","A","Alanine,_aspartate_and_glutamate_metabolism",-7.28018464703428,0.0689058319370394,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.689058319370394,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_9613A","9613","A","Alanine,_aspartate_and_glutamate_metabolism",-7.08191928932306,0.084015909157889,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.84015909157889,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_1522A","1522","B","Alanine,_aspartate_and_glutamate_metabolism",-6.70507303292236,0.122468325848339,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,1.22468325848339,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_2317A","2317","B","Alanine,_aspartate_and_glutamate_metabolism",-7.01568487943096,0.0897690791234766,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.897690791234766,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_2319A","2319","B","Alanine,_aspartate_and_glutamate_metabolism",-6.77384805654564,0.114328674336554,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,1.14328674336554,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_2343A","2343","B","Alanine,_aspartate_and_glutamate_metabolism",-6.96720747583923,0.0942280576487678,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.942280576487677,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_2351A","2351","B","Alanine,_aspartate_and_glutamate_metabolism",-7.11732233615613,0.0810935258583069,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.810935258583069,"Alanine,_aspartate_and_glutamate_metabolism"
+"B_2373A","2373","B","Alanine,_aspartate_and_glutamate_metabolism",-6.87663499470388,0.103160958283812,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,1.03160958283812,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_1512A","1512","C","Alanine,_aspartate_and_glutamate_metabolism",-6.72283762903925,0.120311935910015,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,1.20311935910015,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_2323A","2323","C","Alanine,_aspartate_and_glutamate_metabolism",-6.9475964582992,0.0960942044505333,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.960942044505333,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_2337A","2337","C","Alanine,_aspartate_and_glutamate_metabolism",-6.99173168395122,0.0919452950359976,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.919452950359976,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_2339A","2339","C","Alanine,_aspartate_and_glutamate_metabolism",-6.97252849417167,0.0937280000143629,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.937280000143629,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_2349A","2349","C","Alanine,_aspartate_and_glutamate_metabolism",-8.30791351460331,0.0246557946604885,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.246557946604885,"Alanine,_aspartate_and_glutamate_metabolism"
+"C_2353A","2353","C","Alanine,_aspartate_and_glutamate_metabolism",-7.17324041961183,0.0766833837468925,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.766833837468925,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_1524A","1524","D","Alanine,_aspartate_and_glutamate_metabolism",-6.96736119293902,0.0942135742982253,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.942135742982253,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_2297A","2297","D","Alanine,_aspartate_and_glutamate_metabolism",-7.25526383249708,0.0706445971307547,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.706445971307547,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_2325A","2325","D","Alanine,_aspartate_and_glutamate_metabolism",-7.25928241245683,0.0703612758244014,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.703612758244014,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_2331A","2331","D","Alanine,_aspartate_and_glutamate_metabolism",-7.207316461042,0.0741143376344186,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.741143376344186,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_2357A","2357","D","Alanine,_aspartate_and_glutamate_metabolism",-7.24377986937689,0.0714605533167846,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.714605533167846,"Alanine,_aspartate_and_glutamate_metabolism"
+"D_9633A","9633","D","Alanine,_aspartate_and_glutamate_metabolism",-7.15268715880985,0.0782757858025916,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.782757858025916,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_1506A","1506","E","Alanine,_aspartate_and_glutamate_metabolism",-7.03974641387967,0.0876348763966527,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.876348763966527,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_2307A","2307","E","Alanine,_aspartate_and_glutamate_metabolism",-7.19034099907695,0.0753832020637405,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.753832020637405,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_2327A","2327","E","Alanine,_aspartate_and_glutamate_metabolism",-6.95496438380534,0.0953887914170981,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.953887914170981,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_2329A","2329","E","Alanine,_aspartate_and_glutamate_metabolism",-6.97644951356036,0.0933612102738162,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.933612102738162,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_2375A","2375","E","Alanine,_aspartate_and_glutamate_metabolism",-6.98584040099038,0.092488569506494,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.92488569506494,"Alanine,_aspartate_and_glutamate_metabolism"
+"E_9611A","9611","E","Alanine,_aspartate_and_glutamate_metabolism",-6.92005878726399,0.0987771870418643,"Pathway","Ala / Asp / Glu metabolism","Ala / Asp / Glu
+metabolism
+BH q = 0.184",-1,0.987771870418643,"Alanine,_aspartate_and_glutamate_metabolism"
+"A_1520A","1520","A","Glycine,_serine_and_threonine_metabolism",-6.66666370693382,0.127263756800145,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.27263756800145,"Glycine,_serine_and_threonine_metabolism"
+"A_2277A","2277","A","Glycine,_serine_and_threonine_metabolism",-6.87287307485673,0.103549772425506,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.03549772425506,"Glycine,_serine_and_threonine_metabolism"
+"A_2283A","2283","A","Glycine,_serine_and_threonine_metabolism",-6.86214699028674,0.104666434039329,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.04666434039329,"Glycine,_serine_and_threonine_metabolism"
+"A_2315A","2315","A","Glycine,_serine_and_threonine_metabolism",-6.99812161357317,0.0913596441982003,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.913596441982003,"Glycine,_serine_and_threonine_metabolism"
+"A_2347A","2347","A","Glycine,_serine_and_threonine_metabolism",-7.17910859185671,0.0762347101771624,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.762347101771624,"Glycine,_serine_and_threonine_metabolism"
+"A_9613A","9613","A","Glycine,_serine_and_threonine_metabolism",-6.9514178842208,0.0957276883198802,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.957276883198802,"Glycine,_serine_and_threonine_metabolism"
+"B_1522A","1522","B","Glycine,_serine_and_threonine_metabolism",-6.54559518150258,0.143642889219783,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.43642889219783,"Glycine,_serine_and_threonine_metabolism"
+"B_2317A","2317","B","Glycine,_serine_and_threonine_metabolism",-6.91014812339914,0.0997610016153115,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.997610016153115,"Glycine,_serine_and_threonine_metabolism"
+"B_2319A","2319","B","Glycine,_serine_and_threonine_metabolism",-6.63339972787479,0.131568251146039,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.31568251146039,"Glycine,_serine_and_threonine_metabolism"
+"B_2343A","2343","B","Glycine,_serine_and_threonine_metabolism",-6.81604722364956,0.109604479093543,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.09604479093543,"Glycine,_serine_and_threonine_metabolism"
+"B_2351A","2351","B","Glycine,_serine_and_threonine_metabolism",-6.99335110081255,0.0917965177736142,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.917965177736142,"Glycine,_serine_and_threonine_metabolism"
+"B_2373A","2373","B","Glycine,_serine_and_threonine_metabolism",-6.73204840827877,0.119208857134625,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.19208857134625,"Glycine,_serine_and_threonine_metabolism"
+"C_1512A","1512","C","Glycine,_serine_and_threonine_metabolism",-6.58802387916569,0.13767579172384,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.3767579172384,"Glycine,_serine_and_threonine_metabolism"
+"C_2323A","2323","C","Glycine,_serine_and_threonine_metabolism",-6.88083153660325,0.102728946112596,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.02728946112596,"Glycine,_serine_and_threonine_metabolism"
+"C_2337A","2337","C","Glycine,_serine_and_threonine_metabolism",-6.8345178511259,0.10759859756329,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.0759859756329,"Glycine,_serine_and_threonine_metabolism"
+"C_2339A","2339","C","Glycine,_serine_and_threonine_metabolism",-6.86950968621093,0.103898636908905,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.03898636908905,"Glycine,_serine_and_threonine_metabolism"
+"C_2349A","2349","C","Glycine,_serine_and_threonine_metabolism",-8.4851461370461,0.0206513218181812,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.206513218181812,"Glycine,_serine_and_threonine_metabolism"
+"C_2353A","2353","C","Glycine,_serine_and_threonine_metabolism",-7.05432296921456,0.0863667268517924,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.863667268517924,"Glycine,_serine_and_threonine_metabolism"
+"D_1524A","1524","D","Glycine,_serine_and_threonine_metabolism",-6.82643293597684,0.108472049228225,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.08472049228225,"Glycine,_serine_and_threonine_metabolism"
+"D_2297A","2297","D","Glycine,_serine_and_threonine_metabolism",-7.12811929953634,0.0802226717789705,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.802226717789705,"Glycine,_serine_and_threonine_metabolism"
+"D_2325A","2325","D","Glycine,_serine_and_threonine_metabolism",-7.17330799745762,0.0766782018241047,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.766782018241047,"Glycine,_serine_and_threonine_metabolism"
+"D_2331A","2331","D","Glycine,_serine_and_threonine_metabolism",-7.10686837538453,0.0819457210429559,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.819457210429559,"Glycine,_serine_and_threonine_metabolism"
+"D_2357A","2357","D","Glycine,_serine_and_threonine_metabolism",-7.11731961706259,0.0810937463594886,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.810937463594886,"Glycine,_serine_and_threonine_metabolism"
+"D_9633A","9633","D","Glycine,_serine_and_threonine_metabolism",-7.01979988825604,0.0894004375724751,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.894004375724751,"Glycine,_serine_and_threonine_metabolism"
+"E_1506A","1506","E","Glycine,_serine_and_threonine_metabolism",-6.88262056188937,0.102545325730112,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.02545325730112,"Glycine,_serine_and_threonine_metabolism"
+"E_2307A","2307","E","Glycine,_serine_and_threonine_metabolism",-7.13337596456985,0.0798020745033442,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,0.798020745033442,"Glycine,_serine_and_threonine_metabolism"
+"E_2327A","2327","E","Glycine,_serine_and_threonine_metabolism",-6.83736931603719,0.107292220956499,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.07292220956499,"Glycine,_serine_and_threonine_metabolism"
+"E_2329A","2329","E","Glycine,_serine_and_threonine_metabolism",-6.8787052612972,0.102947608519787,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.02947608519787,"Glycine,_serine_and_threonine_metabolism"
+"E_2375A","2375","E","Glycine,_serine_and_threonine_metabolism",-6.88552875154385,0.102247537696628,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.02247537696628,"Glycine,_serine_and_threonine_metabolism"
+"E_9611A","9611","E","Glycine,_serine_and_threonine_metabolism",-6.7876738971835,0.112758861303493,"Pathway","Gly / Ser / Thr metabolism","Gly / Ser / Thr
+metabolism
+BH q = 0.184",-1,1.12758861303493,"Glycine,_serine_and_threonine_metabolism"
+"A_1520A","1520","A","Cysteine_and_methionine_metabolism",-6.50030087243231,0.150298691761276,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.50298691761276,"Cysteine_and_methionine_metabolism"
+"A_2277A","2277","A","Cysteine_and_methionine_metabolism",-6.62129065936665,0.133171105061167,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.33171105061167,"Cysteine_and_methionine_metabolism"
+"A_2283A","2283","A","Cysteine_and_methionine_metabolism",-6.66894444610707,0.126973832111649,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.26973832111649,"Cysteine_and_methionine_metabolism"
+"A_2315A","2315","A","Cysteine_and_methionine_metabolism",-6.75429109141748,0.116586603387252,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.16586603387252,"Cysteine_and_methionine_metabolism"
+"A_2347A","2347","A","Cysteine_and_methionine_metabolism",-6.88054353124503,0.102758536860463,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.02758536860463,"Cysteine_and_methionine_metabolism"
+"A_9613A","9613","A","Cysteine_and_methionine_metabolism",-6.74412761939328,0.117777569995237,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.17777569995237,"Cysteine_and_methionine_metabolism"
+"B_1522A","1522","B","Cysteine_and_methionine_metabolism",-6.42511553253647,0.162034606442411,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.62034606442411,"Cysteine_and_methionine_metabolism"
+"B_2317A","2317","B","Cysteine_and_methionine_metabolism",-6.64493104803069,0.130059809397018,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.30059809397018,"Cysteine_and_methionine_metabolism"
+"B_2319A","2319","B","Cysteine_and_methionine_metabolism",-6.4361425978987,0.160257655528993,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.60257655528993,"Cysteine_and_methionine_metabolism"
+"B_2343A","2343","B","Cysteine_and_methionine_metabolism",-6.63797320784204,0.130967900277879,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.30967900277879,"Cysteine_and_methionine_metabolism"
+"B_2351A","2351","B","Cysteine_and_methionine_metabolism",-6.73944036157956,0.118330919663647,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.18330919663647,"Cysteine_and_methionine_metabolism"
+"B_2373A","2373","B","Cysteine_and_methionine_metabolism",-6.57062293406166,0.140092445670617,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.40092445670617,"Cysteine_and_methionine_metabolism"
+"C_1512A","1512","C","Cysteine_and_methionine_metabolism",-6.44786491937738,0.158390031601742,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.58390031601742,"Cysteine_and_methionine_metabolism"
+"C_2323A","2323","C","Cysteine_and_methionine_metabolism",-6.62779498252835,0.132307728043464,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.32307728043464,"Cysteine_and_methionine_metabolism"
+"C_2337A","2337","C","Cysteine_and_methionine_metabolism",-6.67202328469509,0.12658350136869,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.26583501368689,"Cysteine_and_methionine_metabolism"
+"C_2339A","2339","C","Cysteine_and_methionine_metabolism",-6.64784559024878,0.12968129645557,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.2968129645557,"Cysteine_and_methionine_metabolism"
+"C_2349A","2349","C","Cysteine_and_methionine_metabolism",-7.84207660659446,0.0392852393150486,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,0.392852393150486,"Cysteine_and_methionine_metabolism"
+"C_2353A","2353","C","Cysteine_and_methionine_metabolism",-6.7804416777053,0.113577314184557,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.13577314184557,"Cysteine_and_methionine_metabolism"
+"D_1524A","1524","D","Cysteine_and_methionine_metabolism",-6.62705205077326,0.132406060178582,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.32406060178582,"Cysteine_and_methionine_metabolism"
+"D_2297A","2297","D","Cysteine_and_methionine_metabolism",-6.83467299413455,0.107581905687985,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.07581905687985,"Cysteine_and_methionine_metabolism"
+"D_2325A","2325","D","Cysteine_and_methionine_metabolism",-6.89746608877506,0.101034230594096,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.01034230594096,"Cysteine_and_methionine_metabolism"
+"D_2331A","2331","D","Cysteine_and_methionine_metabolism",-6.78584206178516,0.112965606280675,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.12965606280675,"Cysteine_and_methionine_metabolism"
+"D_2357A","2357","D","Cysteine_and_methionine_metabolism",-6.86092739249179,0.104794162864553,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.04794162864552,"Cysteine_and_methionine_metabolism"
+"D_9633A","9633","D","Cysteine_and_methionine_metabolism",-6.73399399654744,0.118977151255871,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.18977151255871,"Cysteine_and_methionine_metabolism"
+"E_1506A","1506","E","Cysteine_and_methionine_metabolism",-6.6752386225209,0.126177146283142,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.26177146283142,"Cysteine_and_methionine_metabolism"
+"E_2307A","2307","E","Cysteine_and_methionine_metabolism",-6.80186140040497,0.111170389464737,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.11170389464737,"Cysteine_and_methionine_metabolism"
+"E_2327A","2327","E","Cysteine_and_methionine_metabolism",-6.59224067665204,0.137096463105537,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.37096463105537,"Cysteine_and_methionine_metabolism"
+"E_2329A","2329","E","Cysteine_and_methionine_metabolism",-6.6092139838421,0.134789119740328,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.34789119740328,"Cysteine_and_methionine_metabolism"
+"E_2375A","2375","E","Cysteine_and_methionine_metabolism",-6.63410087051478,0.131476035367078,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.31476035367078,"Cysteine_and_methionine_metabolism"
+"E_9611A","9611","E","Cysteine_and_methionine_metabolism",-6.57169354719411,0.139942541117736,"Pathway","Cys / Met metabolism","Cys / Met metabolism
+BH q = 0.184",-1,1.39942541117736,"Cysteine_and_methionine_metabolism"
+"A_1520A","1520","A","Valine,_leucine_and_isoleucine_degradation",-7.71068065900348,0.044801642691368,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,4.4801642691368,"Valine,_leucine_and_isoleucine_degradation"
+"A_2277A","2277","A","Valine,_leucine_and_isoleucine_degradation",-7.94347694095908,0.0354970120030626,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.54970120030626,"Valine,_leucine_and_isoleucine_degradation"
+"A_2283A","2283","A","Valine,_leucine_and_isoleucine_degradation",-7.93129269263837,0.0359321620164921,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.59321620164921,"Valine,_leucine_and_isoleucine_degradation"
+"A_2315A","2315","A","Valine,_leucine_and_isoleucine_degradation",-8.12058701572272,0.0297354057692237,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.97354057692237,"Valine,_leucine_and_isoleucine_degradation"
+"A_2347A","2347","A","Valine,_leucine_and_isoleucine_degradation",-8.3108575855718,0.0245833129991543,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.45833129991543,"Valine,_leucine_and_isoleucine_degradation"
+"A_9613A","9613","A","Valine,_leucine_and_isoleucine_degradation",-8.07318442834733,0.031178882933941,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.1178882933941,"Valine,_leucine_and_isoleucine_degradation"
+"B_1522A","1522","B","Valine,_leucine_and_isoleucine_degradation",-7.57974894518618,0.0510689417958513,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,5.10689417958513,"Valine,_leucine_and_isoleucine_degradation"
+"B_2317A","2317","B","Valine,_leucine_and_isoleucine_degradation",-8.09011166765442,0.030655552288556,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.0655552288556,"Valine,_leucine_and_isoleucine_degradation"
+"B_2319A","2319","B","Valine,_leucine_and_isoleucine_degradation",-7.80708590129636,0.040684189950399,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,4.0684189950399,"Valine,_leucine_and_isoleucine_degradation"
+"B_2343A","2343","B","Valine,_leucine_and_isoleucine_degradation",-7.88079372149843,0.0377932964184767,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.77932964184767,"Valine,_leucine_and_isoleucine_degradation"
+"B_2351A","2351","B","Valine,_leucine_and_isoleucine_degradation",-8.08109795044629,0.0309331218552262,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.09331218552262,"Valine,_leucine_and_isoleucine_degradation"
+"B_2373A","2373","B","Valine,_leucine_and_isoleucine_degradation",-7.80853154559203,0.0406254175754831,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,4.06254175754831,"Valine,_leucine_and_isoleucine_degradation"
+"C_1512A","1512","C","Valine,_leucine_and_isoleucine_degradation",-7.65688331723753,0.0472778617930868,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,4.72778617930868,"Valine,_leucine_and_isoleucine_degradation"
+"C_2323A","2323","C","Valine,_leucine_and_isoleucine_degradation",-8.00741470842285,0.0332984469095995,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.32984469095995,"Valine,_leucine_and_isoleucine_degradation"
+"C_2337A","2337","C","Valine,_leucine_and_isoleucine_degradation",-7.86077733179732,0.0385574035893003,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.85574035893003,"Valine,_leucine_and_isoleucine_degradation"
+"C_2339A","2339","C","Valine,_leucine_and_isoleucine_degradation",-7.98110673145547,0.0341860864900291,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.41860864900291,"Valine,_leucine_and_isoleucine_degradation"
+"C_2349A","2349","C","Valine,_leucine_and_isoleucine_degradation",-9.51088513822845,0.00740414757822482,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,0.740414757822482,"Valine,_leucine_and_isoleucine_degradation"
+"C_2353A","2353","C","Valine,_leucine_and_isoleucine_degradation",-8.23533818313881,0.0265117301396283,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.65117301396283,"Valine,_leucine_and_isoleucine_degradation"
+"D_1524A","1524","D","Valine,_leucine_and_isoleucine_degradation",-7.91939526857023,0.0363622153765061,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.63622153765061,"Valine,_leucine_and_isoleucine_degradation"
+"D_2297A","2297","D","Valine,_leucine_and_isoleucine_degradation",-8.2868670943497,0.0251802100525452,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.51802100525452,"Valine,_leucine_and_isoleucine_degradation"
+"D_2325A","2325","D","Valine,_leucine_and_isoleucine_degradation",-8.26379915811157,0.0257678169146238,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.57678169146238,"Valine,_leucine_and_isoleucine_degradation"
+"D_2331A","2331","D","Valine,_leucine_and_isoleucine_degradation",-8.27651655478428,0.0254421923028606,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.54421923028606,"Valine,_leucine_and_isoleucine_degradation"
+"D_2357A","2357","D","Valine,_leucine_and_isoleucine_degradation",-8.21234827355438,0.0271282926202597,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.71282926202597,"Valine,_leucine_and_isoleucine_degradation"
+"D_9633A","9633","D","Valine,_leucine_and_isoleucine_degradation",-8.14048341780723,0.0291496249691959,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.91496249691959,"Valine,_leucine_and_isoleucine_degradation"
+"E_1506A","1506","E","Valine,_leucine_and_isoleucine_degradation",-7.92835892597066,0.0360377333808687,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.60377333808687,"Valine,_leucine_and_isoleucine_degradation"
+"E_2307A","2307","E","Valine,_leucine_and_isoleucine_degradation",-8.31720372648493,0.0244277978133198,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,2.44277978133198,"Valine,_leucine_and_isoleucine_degradation"
+"E_2327A","2327","E","Valine,_leucine_and_isoleucine_degradation",-7.95145786859056,0.035214840412401,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.5214840412401,"Valine,_leucine_and_isoleucine_degradation"
+"E_2329A","2329","E","Valine,_leucine_and_isoleucine_degradation",-8.10859579636511,0.0300941159303895,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.00941159303895,"Valine,_leucine_and_isoleucine_degradation"
+"E_2375A","2375","E","Valine,_leucine_and_isoleucine_degradation",-8.05965627888324,0.0316035414680488,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.16035414680488,"Valine,_leucine_and_isoleucine_degradation"
+"E_9611A","9611","E","Valine,_leucine_and_isoleucine_degradation",-7.92213250979248,0.0362628193191982,"Pathway","BCAA degradation","BCAA degradation
+BH q = 0.208",-2,3.62628193191982,"Valine,_leucine_and_isoleucine_degradation"
+"A_1520A","1520","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.15707499433929,0.0286699767984006,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.86699767984006,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_2277A","2277","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.15311465243768,0.0287837448403078,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.87837448403078,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_2283A","2283","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.2850110482502,0.0252269890817859,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.52269890817859,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_2315A","2315","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.28387616626886,0.0252556349889257,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.52556349889257,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_2347A","2347","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.43473760987067,0.0217190087225557,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.17190087225557,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_9613A","9613","A","Valine,_leucine_and_isoleucine_biosynthesis",-8.32731270066564,0.0241821017956136,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.41821017956136,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_1522A","1522","B","Valine,_leucine_and_isoleucine_biosynthesis",-8.07428858229166,0.0311444756463364,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.11444756463364,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_2317A","2317","B","Valine,_leucine_and_isoleucine_biosynthesis",-8.15691285694762,0.0286746256505242,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.86746256505241,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_2319A","2319","B","Valine,_leucine_and_isoleucine_biosynthesis",-7.96593585776782,0.0347086733164345,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.47086733164344,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_2343A","2343","B","Valine,_leucine_and_isoleucine_biosynthesis",-8.28260656474966,0.0252877199447205,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.52877199447205,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_2351A","2351","B","Valine,_leucine_and_isoleucine_biosynthesis",-8.29429531818947,0.0249938588022236,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.49938588022236,"Valine,_leucine_and_isoleucine_biosynthesis"
+"B_2373A","2373","B","Valine,_leucine_and_isoleucine_biosynthesis",-8.18242090552407,0.0279524418143258,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.79524418143258,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_1512A","1512","C","Valine,_leucine_and_isoleucine_biosynthesis",-8.03757235135071,0.0323092353535804,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.23092353535804,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_2323A","2323","C","Valine,_leucine_and_isoleucine_biosynthesis",-8.10434517327651,0.0302223069271888,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.02223069271888,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_2337A","2337","C","Valine,_leucine_and_isoleucine_biosynthesis",-8.3134414394416,0.0245198753028913,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.45198753028913,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_2339A","2339","C","Valine,_leucine_and_isoleucine_biosynthesis",-8.24215058164903,0.0263317354625671,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.63317354625671,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_2349A","2349","C","Valine,_leucine_and_isoleucine_biosynthesis",-9.68176054549714,0.00624115286593778,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,0.624115286593778,"Valine,_leucine_and_isoleucine_biosynthesis"
+"C_2353A","2353","C","Valine,_leucine_and_isoleucine_biosynthesis",-8.24323222394289,0.0263032693416756,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.63032693416756,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_1524A","1524","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.17620314479956,0.0281267848591787,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.81267848591787,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_2297A","2297","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.40299333742787,0.0224195226810019,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.24195226810019,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_2325A","2325","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.46246360686938,0.0211250989678489,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.11250989678489,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_2331A","2331","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.29154608033301,0.0250626674072931,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.50626674072931,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_2357A","2357","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.50107682109806,0.0203249387901005,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.03249387901004,"Valine,_leucine_and_isoleucine_biosynthesis"
+"D_9633A","9633","D","Valine,_leucine_and_isoleucine_biosynthesis",-8.27224531363917,0.0255510944495483,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.55510944495483,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_1506A","1506","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.29805335404395,0.0249001072558759,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.49001072558759,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_2307A","2307","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.27979497118699,0.0253589187795219,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.53589187795219,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_2327A","2327","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.0860756725946,0.0307795279604591,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.0779527960459,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_2329A","2329","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.04325317246155,0.0321262127189367,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.21262127189367,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_2375A","2375","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.12382214351679,0.0296393633700346,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,2.96393633700346,"Valine,_leucine_and_isoleucine_biosynthesis"
+"E_9611A","9611","E","Valine,_leucine_and_isoleucine_biosynthesis",-8.10019775870129,0.0303479116508219,"Pathway","BCAA biosynthesis","BCAA biosynthesis
+BH q = 0.203",-2,3.03479116508219,"Valine,_leucine_and_isoleucine_biosynthesis"
+"A_1520A","1520","A","Lysine_biosynthesis",-7.35570621726073,0.0638936030564482,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,6.38936030564482,"Lysine_biosynthesis"
+"A_2277A","2277","A","Lysine_biosynthesis",-7.61639769854113,0.0492312097268653,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.92312097268653,"Lysine_biosynthesis"
+"A_2283A","2283","A","Lysine_biosynthesis",-7.5310614264678,0.0536168850738259,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.36168850738259,"Lysine_biosynthesis"
+"A_2315A","2315","A","Lysine_biosynthesis",-7.66983492939437,0.0466694854947476,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.66694854947476,"Lysine_biosynthesis"
+"A_2347A","2347","A","Lysine_biosynthesis",-7.930531920471,0.0359595086062108,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,3.59595086062108,"Lysine_biosynthesis"
+"A_9613A","9613","A","Lysine_biosynthesis",-7.64633367452771,0.0477792665131032,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.77792665131032,"Lysine_biosynthesis"
+"B_1522A","1522","B","Lysine_biosynthesis",-7.21728113536745,0.0733794797872228,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,7.33794797872228,"Lysine_biosynthesis"
+"B_2317A","2317","B","Lysine_biosynthesis",-7.60011390132171,0.0500394434607073,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.00394434607073,"Lysine_biosynthesis"
+"B_2319A","2319","B","Lysine_biosynthesis",-7.28001658682982,0.0689174132383937,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,6.89174132383937,"Lysine_biosynthesis"
+"B_2343A","2343","B","Lysine_biosynthesis",-7.55731767372979,0.0522274276727641,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.22274276727641,"Lysine_biosynthesis"
+"B_2351A","2351","B","Lysine_biosynthesis",-7.70314066484795,0.0451407235428015,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.51407235428015,"Lysine_biosynthesis"
+"B_2373A","2373","B","Lysine_biosynthesis",-7.43877198054524,0.0588006838197759,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.88006838197759,"Lysine_biosynthesis"
+"C_1512A","1512","C","Lysine_biosynthesis",-7.29122901464962,0.0681489976693064,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,6.81489976693064,"Lysine_biosynthesis"
+"C_2323A","2323","C","Lysine_biosynthesis",-7.56389296041157,0.0518851439033208,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.18851439033208,"Lysine_biosynthesis"
+"C_2337A","2337","C","Lysine_biosynthesis",-7.57521569108258,0.0513009758230512,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.13009758230512,"Lysine_biosynthesis"
+"C_2339A","2339","C","Lysine_biosynthesis",-7.558194506745,0.0521816530111807,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.21816530111807,"Lysine_biosynthesis"
+"C_2349A","2349","C","Lysine_biosynthesis",-9.63643852962943,0.00653052236899497,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,0.653052236899497,"Lysine_biosynthesis"
+"C_2353A","2353","C","Lysine_biosynthesis",-7.76607019087393,0.0423875748837116,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.23875748837116,"Lysine_biosynthesis"
+"D_1524A","1524","D","Lysine_biosynthesis",-7.52270746681974,0.0540666745137562,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.40666745137562,"Lysine_biosynthesis"
+"D_2297A","2297","D","Lysine_biosynthesis",-7.84861498617186,0.0390292154114421,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,3.90292154114421,"Lysine_biosynthesis"
+"D_2325A","2325","D","Lysine_biosynthesis",-7.88136088562068,0.0377718674941198,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,3.77718674941198,"Lysine_biosynthesis"
+"D_2331A","2331","D","Lysine_biosynthesis",-7.80157886247723,0.0409088574222255,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.09088574222255,"Lysine_biosynthesis"
+"D_2357A","2357","D","Lysine_biosynthesis",-7.89158644748388,0.0373875969657392,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,3.73875969657392,"Lysine_biosynthesis"
+"D_9633A","9633","D","Lysine_biosynthesis",-7.7760981371405,0.0419646386952823,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.19646386952823,"Lysine_biosynthesis"
+"E_1506A","1506","E","Lysine_biosynthesis",-7.62057987811292,0.0490257459100138,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,4.90257459100138,"Lysine_biosynthesis"
+"E_2307A","2307","E","Lysine_biosynthesis",-7.84891704471682,0.0390174280837454,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,3.90174280837454,"Lysine_biosynthesis"
+"E_2327A","2327","E","Lysine_biosynthesis",-7.5295868604717,0.0536960050288339,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.36960050288339,"Lysine_biosynthesis"
+"E_2329A","2329","E","Lysine_biosynthesis",-7.55197144426276,0.0525073952040683,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.25073952040683,"Lysine_biosynthesis"
+"E_2375A","2375","E","Lysine_biosynthesis",-7.51483056623913,0.0544942340449063,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.44942340449063,"Lysine_biosynthesis"
+"E_9611A","9611","E","Lysine_biosynthesis",-7.48325727605069,0.0562422463501604,"Pathway","Lysine biosynthesis","Lysine biosynthesis
+BH q = 0.184",-2,5.62422463501604,"Lysine_biosynthesis"
+"A_1520A","1520","A","Lysine_degradation",-7.96816935947271,0.034631237943617,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,3.4631237943617,"Lysine_degradation"
+"A_2277A","2277","A","Lysine_degradation",-8.1131634284633,0.0299569705337987,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.99569705337987,"Lysine_degradation"
+"A_2283A","2283","A","Lysine_degradation",-8.14722574968815,0.028953749593868,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.8953749593868,"Lysine_degradation"
+"A_2315A","2315","A","Lysine_degradation",-8.361171257883,0.0233770367971878,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.33770367971878,"Lysine_degradation"
+"A_2347A","2347","A","Lysine_degradation",-8.52434247486095,0.019857524237764,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,1.9857524237764,"Lysine_degradation"
+"A_9613A","9613","A","Lysine_degradation",-8.41234992038601,0.0222107308693409,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.22107308693409,"Lysine_degradation"
+"B_1522A","1522","B","Lysine_degradation",-7.78940609503356,0.041409874626412,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,4.1409874626412,"Lysine_degradation"
+"B_2317A","2317","B","Lysine_degradation",-8.29254666291044,0.0250376026806969,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.5037602680697,"Lysine_degradation"
+"B_2319A","2319","B","Lysine_degradation",-8.09605166419635,0.0304739981632319,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,3.04739981632319,"Lysine_degradation"
+"B_2343A","2343","B","Lysine_degradation",-8.07441381172062,0.0311405756856359,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,3.11405756856359,"Lysine_degradation"
+"B_2351A","2351","B","Lysine_degradation",-8.34650536933801,0.0237224082122846,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.37224082122846,"Lysine_degradation"
+"B_2373A","2373","B","Lysine_degradation",-7.98097060038938,0.0341907405952054,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,3.41907405952054,"Lysine_degradation"
+"C_1512A","1512","C","Lysine_degradation",-7.78004942584104,0.0417991514518295,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,4.17991514518295,"Lysine_degradation"
+"C_2323A","2323","C","Lysine_degradation",-8.32874803212549,0.0241474173619251,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.41474173619251,"Lysine_degradation"
+"C_2337A","2337","C","Lysine_degradation",-8.01897287692156,0.0329157934957099,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,3.29157934957099,"Lysine_degradation"
+"C_2339A","2339","C","Lysine_degradation",-8.17031745509099,0.02829281851936,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.829281851936,"Lysine_degradation"
+"C_2349A","2349","C","Lysine_degradation",-9.7132000807422,0.00604798636389698,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,0.604798636389698,"Lysine_degradation"
+"C_2353A","2353","C","Lysine_degradation",-8.48904381894599,0.0205709861979724,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.05709861979724,"Lysine_degradation"
+"D_1524A","1524","D","Lysine_degradation",-8.13512532439777,0.0293062305616603,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.93062305616603,"Lysine_degradation"
+"D_2297A","2297","D","Lysine_degradation",-8.60059336700443,0.0183996583768272,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,1.83996583768272,"Lysine_degradation"
+"D_2325A","2325","D","Lysine_degradation",-8.46369342689145,0.0210991348670281,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.10991348670281,"Lysine_degradation"
+"D_2331A","2331","D","Lysine_degradation",-8.56996898002774,0.0189718534784277,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,1.89718534784277,"Lysine_degradation"
+"D_2357A","2357","D","Lysine_degradation",-8.45127096578779,0.0213628727947016,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.13628727947016,"Lysine_degradation"
+"D_9633A","9633","D","Lysine_degradation",-8.38823814872842,0.0227527795565072,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.27527795565072,"Lysine_degradation"
+"E_1506A","1506","E","Lysine_degradation",-8.11367136134404,0.0299417582671893,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.99417582671893,"Lysine_degradation"
+"E_2307A","2307","E","Lysine_degradation",-8.52692905747441,0.0198062274810735,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,1.98062274810735,"Lysine_degradation"
+"E_2327A","2327","E","Lysine_degradation",-8.19160727763773,0.0276968361243576,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.76968361243576,"Lysine_degradation"
+"E_2329A","2329","E","Lysine_degradation",-8.35178916297409,0.0235973944670051,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.35973944670051,"Lysine_degradation"
+"E_2375A","2375","E","Lysine_degradation",-8.45139552684486,0.0213602119784048,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.13602119784048,"Lysine_degradation"
+"E_9611A","9611","E","Lysine_degradation",-8.14747944708617,0.0289464050346205,"Pathway","Lysine degradation","Lysine degradation
+BH q = 0.212",-2,2.89464050346205,"Lysine_degradation"
+"A_1520A","1520","A","Arginine_and_proline_metabolism",-7.45692050341358,0.0577431635066235,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.77431635066235,"Arginine_and_proline_metabolism"
+"A_2277A","2277","A","Arginine_and_proline_metabolism",-7.57269284248512,0.0514305638146632,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.14305638146632,"Arginine_and_proline_metabolism"
+"A_2283A","2283","A","Arginine_and_proline_metabolism",-7.60667968237992,0.0497119716611662,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.97119716611662,"Arginine_and_proline_metabolism"
+"A_2315A","2315","A","Arginine_and_proline_metabolism",-7.71447148180464,0.0446321291037079,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.46321291037079,"Arginine_and_proline_metabolism"
+"A_2347A","2347","A","Arginine_and_proline_metabolism",-7.82253605210035,0.0400604439727062,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.00604439727062,"Arginine_and_proline_metabolism"
+"A_9613A","9613","A","Arginine_and_proline_metabolism",-7.69908274144367,0.0453242733049175,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.53242733049175,"Arginine_and_proline_metabolism"
+"B_1522A","1522","B","Arginine_and_proline_metabolism",-7.37250273490662,0.0628293757021529,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,6.28293757021529,"Arginine_and_proline_metabolism"
+"B_2317A","2317","B","Arginine_and_proline_metabolism",-7.63206614541248,0.0484658448304958,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.84658448304958,"Arginine_and_proline_metabolism"
+"B_2319A","2319","B","Arginine_and_proline_metabolism",-7.44451843342314,0.058463757453917,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.8463757453917,"Arginine_and_proline_metabolism"
+"B_2343A","2343","B","Arginine_and_proline_metabolism",-7.53832571212508,0.0532288079626552,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.32288079626552,"Arginine_and_proline_metabolism"
+"B_2351A","2351","B","Arginine_and_proline_metabolism",-7.69229921852041,0.0456327767389078,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.56327767389078,"Arginine_and_proline_metabolism"
+"B_2373A","2373","B","Arginine_and_proline_metabolism",-7.49197600289191,0.055754017029114,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.5754017029114,"Arginine_and_proline_metabolism"
+"C_1512A","1512","C","Arginine_and_proline_metabolism",-7.36096768881304,0.0635583115185278,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,6.35583115185278,"Arginine_and_proline_metabolism"
+"C_2323A","2323","C","Arginine_and_proline_metabolism",-7.54713483496797,0.0527619680983071,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.27619680983071,"Arginine_and_proline_metabolism"
+"C_2337A","2337","C","Arginine_and_proline_metabolism",-7.58631522755702,0.0507347072437693,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.07347072437693,"Arginine_and_proline_metabolism"
+"C_2339A","2339","C","Arginine_and_proline_metabolism",-7.56179922625577,0.0519938914057431,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.19938914057431,"Arginine_and_proline_metabolism"
+"C_2349A","2349","C","Arginine_and_proline_metabolism",-8.48163414905496,0.0207239765189488,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,2.07239765189488,"Arginine_and_proline_metabolism"
+"C_2353A","2353","C","Arginine_and_proline_metabolism",-7.7672265823386,0.0423385865841928,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.23385865841928,"Arginine_and_proline_metabolism"
+"D_1524A","1524","D","Arginine_and_proline_metabolism",-7.57589943644402,0.0512659110078634,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.12659110078634,"Arginine_and_proline_metabolism"
+"D_2297A","2297","D","Arginine_and_proline_metabolism",-7.83692683048621,0.0394880713233334,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,3.94880713233334,"Arginine_and_proline_metabolism"
+"D_2325A","2325","D","Arginine_and_proline_metabolism",-7.80811161324678,0.0406424810848714,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.06424810848714,"Arginine_and_proline_metabolism"
+"D_2331A","2331","D","Arginine_and_proline_metabolism",-7.80562799796706,0.0407435468241561,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.07435468241561,"Arginine_and_proline_metabolism"
+"D_2357A","2357","D","Arginine_and_proline_metabolism",-7.76084164441159,0.0426097806888892,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.26097806888892,"Arginine_and_proline_metabolism"
+"D_9633A","9633","D","Arginine_and_proline_metabolism",-7.70904858492078,0.0448748219920429,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.48748219920429,"Arginine_and_proline_metabolism"
+"E_1506A","1506","E","Arginine_and_proline_metabolism",-7.62035548447151,0.0490367482100385,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.90367482100385,"Arginine_and_proline_metabolism"
+"E_2307A","2307","E","Arginine_and_proline_metabolism",-7.76072096427899,0.0426149231531635,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.26149231531635,"Arginine_and_proline_metabolism"
+"E_2327A","2327","E","Arginine_and_proline_metabolism",-7.55665692252569,0.0522619484120397,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.22619484120397,"Arginine_and_proline_metabolism"
+"E_2329A","2329","E","Arginine_and_proline_metabolism",-7.62202764273844,0.0489548195240906,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.89548195240906,"Arginine_and_proline_metabolism"
+"E_2375A","2375","E","Arginine_and_proline_metabolism",-7.61863023915729,0.0491214216503382,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,4.91214216503382,"Arginine_and_proline_metabolism"
+"E_9611A","9611","E","Arginine_and_proline_metabolism",-7.56252367185063,0.0519562383006141,"Pathway","Arg / Pro metabolism","Arg / Pro metabolism
+BH q = 0.184",-2,5.19562383006141,"Arginine_and_proline_metabolism"
+"A_1520A","1520","A","Histidine_metabolism",-7.66354341698668,0.0469640327440439,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.69640327440438,"Histidine_metabolism"
+"A_2277A","2277","A","Histidine_metabolism",-7.65942437253569,0.0471578786383681,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.71578786383681,"Histidine_metabolism"
+"A_2283A","2283","A","Histidine_metabolism",-7.74944109413494,0.0430983352397248,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.30983352397248,"Histidine_metabolism"
+"A_2315A","2315","A","Histidine_metabolism",-7.79969739352931,0.040985898619744,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.0985898619744,"Histidine_metabolism"
+"A_2347A","2347","A","Histidine_metabolism",-8.00638486296967,0.0333327568276714,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.33327568276714,"Histidine_metabolism"
+"A_9613A","9613","A","Histidine_metabolism",-7.87515600155611,0.0380069661785775,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.80069661785775,"Histidine_metabolism"
+"B_1522A","1522","B","Histidine_metabolism",-7.4692898398271,0.0570333181004784,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,5.70333181004784,"Histidine_metabolism"
+"B_2317A","2317","B","Histidine_metabolism",-7.71441014775359,0.0446348666569448,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.46348666569448,"Histidine_metabolism"
+"B_2319A","2319","B","Histidine_metabolism",-7.49413656256192,0.0556336871851921,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,5.56336871851921,"Histidine_metabolism"
+"B_2343A","2343","B","Histidine_metabolism",-7.70473075975223,0.0450690025450284,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.50690025450284,"Histidine_metabolism"
+"B_2351A","2351","B","Histidine_metabolism",-7.82361806785335,0.0400171213833445,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.00171213833445,"Histidine_metabolism"
+"B_2373A","2373","B","Histidine_metabolism",-7.62309103432625,0.048902789050113,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.8902789050113,"Histidine_metabolism"
+"C_1512A","1512","C","Histidine_metabolism",-7.45469070323399,0.0578720628794957,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,5.78720628794957,"Histidine_metabolism"
+"C_2323A","2323","C","Histidine_metabolism",-7.76990921167238,0.0422251600585565,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.22251600585565,"Histidine_metabolism"
+"C_2337A","2337","C","Histidine_metabolism",-7.71998610866904,0.0443866769760247,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.43866769760247,"Histidine_metabolism"
+"C_2339A","2339","C","Histidine_metabolism",-7.75124925690865,0.043020476845873,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.3020476845873,"Histidine_metabolism"
+"C_2349A","2349","C","Histidine_metabolism",-9.34702521239171,0.0087224507921527,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,0.87224507921527,"Histidine_metabolism"
+"C_2353A","2353","C","Histidine_metabolism",-7.7917788674868,0.0413117348942775,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.13117348942775,"Histidine_metabolism"
+"D_1524A","1524","D","Histidine_metabolism",-7.68396117938032,0.0460148552968152,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.60148552968152,"Histidine_metabolism"
+"D_2297A","2297","D","Histidine_metabolism",-7.96330344596357,0.0348001612018462,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.48001612018462,"Histidine_metabolism"
+"D_2325A","2325","D","Histidine_metabolism",-8.04281615148521,0.0321402556160821,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.21402556160821,"Histidine_metabolism"
+"D_2331A","2331","D","Histidine_metabolism",-7.9131905284822,0.0365885348726825,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.65885348726825,"Histidine_metabolism"
+"D_2357A","2357","D","Histidine_metabolism",-8.05786128926883,0.0316603204403502,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.16603204403502,"Histidine_metabolism"
+"D_9633A","9633","D","Histidine_metabolism",-7.84873206465645,0.0390246461975305,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.90246461975305,"Histidine_metabolism"
+"E_1506A","1506","E","Histidine_metabolism",-7.76900956692475,0.0422631647948385,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.22631647948386,"Histidine_metabolism"
+"E_2307A","2307","E","Histidine_metabolism",-7.94373463785301,0.0354878657118614,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,3.54878657118614,"Histidine_metabolism"
+"E_2327A","2327","E","Histidine_metabolism",-7.68102820411973,0.0461500138404628,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.61500138404628,"Histidine_metabolism"
+"E_2329A","2329","E","Histidine_metabolism",-7.65214641341475,0.0475023437322768,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.75023437322768,"Histidine_metabolism"
+"E_2375A","2375","E","Histidine_metabolism",-7.77400608849614,0.0420525226574849,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.20525226574849,"Histidine_metabolism"
+"E_9611A","9611","E","Histidine_metabolism",-7.68114546354924,0.0461446026334316,"Pathway","Histidine metabolism","Histidine metabolism
+BH q = 0.184",-2,4.61446026334316,"Histidine_metabolism"
+"A_1520A","1520","A","Tyrosine_metabolism",-8.48523198100627,0.020649549103023,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.0649549103023,"Tyrosine_metabolism"
+"A_2277A","2277","A","Tyrosine_metabolism",-8.59155598388818,0.018566696796992,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.8566696796992,"Tyrosine_metabolism"
+"A_2283A","2283","A","Tyrosine_metabolism",-8.55714031550242,0.0192168048623009,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.92168048623009,"Tyrosine_metabolism"
+"A_2315A","2315","A","Tyrosine_metabolism",-8.68664104552095,0.0168826154257503,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.68826154257503,"Tyrosine_metabolism"
+"A_2347A","2347","A","Tyrosine_metabolism",-8.76000942651571,0.0156883129718265,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.56883129718265,"Tyrosine_metabolism"
+"A_9613A","9613","A","Tyrosine_metabolism",-8.64041031722897,0.0176814337387321,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.76814337387321,"Tyrosine_metabolism"
+"B_1522A","1522","B","Tyrosine_metabolism",-8.41583090857735,0.0221335499882667,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.21335499882667,"Tyrosine_metabolism"
+"B_2317A","2317","B","Tyrosine_metabolism",-8.59534901364304,0.0184964061551125,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.84964061551125,"Tyrosine_metabolism"
+"B_2319A","2319","B","Tyrosine_metabolism",-8.43772480737191,0.0216542265606991,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.16542265606991,"Tyrosine_metabolism"
+"B_2343A","2343","B","Tyrosine_metabolism",-8.55187978538201,0.0193181618049831,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.93181618049831,"Tyrosine_metabolism"
+"B_2351A","2351","B","Tyrosine_metabolism",-8.62496018599491,0.0179567354579084,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.79567354579084,"Tyrosine_metabolism"
+"B_2373A","2373","B","Tyrosine_metabolism",-8.47831627599549,0.0207928502362699,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.07928502362699,"Tyrosine_metabolism"
+"C_1512A","1512","C","Tyrosine_metabolism",-8.40868506344741,0.0222922793609822,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.22922793609822,"Tyrosine_metabolism"
+"C_2323A","2323","C","Tyrosine_metabolism",-8.42295499168918,0.0219764290743388,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.19764290743388,"Tyrosine_metabolism"
+"C_2337A","2337","C","Tyrosine_metabolism",-8.5762843041147,0.0188524176102466,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.88524176102466,"Tyrosine_metabolism"
+"C_2339A","2339","C","Tyrosine_metabolism",-8.48976232174884,0.0205562111953079,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,2.05562111953079,"Tyrosine_metabolism"
+"C_2349A","2349","C","Tyrosine_metabolism",-9.15175559751452,0.0106033487120244,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.06033487120244,"Tyrosine_metabolism"
+"C_2353A","2353","C","Tyrosine_metabolism",-8.76145766828311,0.0156656089461481,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.56656089461481,"Tyrosine_metabolism"
+"D_1524A","1524","D","Tyrosine_metabolism",-8.52185894705123,0.0199069022418841,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.99069022418841,"Tyrosine_metabolism"
+"D_2297A","2297","D","Tyrosine_metabolism",-8.77694977535722,0.0154247858997333,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.54247858997333,"Tyrosine_metabolism"
+"D_2325A","2325","D","Tyrosine_metabolism",-8.75723419792272,0.0157319120973487,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.57319120973487,"Tyrosine_metabolism"
+"D_2331A","2331","D","Tyrosine_metabolism",-8.74607799131502,0.0159084032142058,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.59084032142058,"Tyrosine_metabolism"
+"D_2357A","2357","D","Tyrosine_metabolism",-8.68801062463889,0.0168595091747382,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.68595091747382,"Tyrosine_metabolism"
+"D_9633A","9633","D","Tyrosine_metabolism",-8.7052661769552,0.016571084650972,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.6571084650972,"Tyrosine_metabolism"
+"E_1506A","1506","E","Tyrosine_metabolism",-8.63805846818911,0.0177230667397706,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.77230667397706,"Tyrosine_metabolism"
+"E_2307A","2307","E","Tyrosine_metabolism",-8.62328461039031,0.0179868485471134,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.79868485471134,"Tyrosine_metabolism"
+"E_2327A","2327","E","Tyrosine_metabolism",-8.53697579160173,0.019608235829632,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.9608235829632,"Tyrosine_metabolism"
+"E_2329A","2329","E","Tyrosine_metabolism",-8.62070373053837,0.0180333303983641,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.80333303983641,"Tyrosine_metabolism"
+"E_2375A","2375","E","Tyrosine_metabolism",-8.58615715540347,0.0186672062811274,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.86672062811274,"Tyrosine_metabolism"
+"E_9611A","9611","E","Tyrosine_metabolism",-8.5280160160315,0.0197847106287113,"Pathway","Tyrosine metabolism","Tyrosine metabolism
+BH q = 0.184",-2,1.97847106287113,"Tyrosine_metabolism"
+"A_1520A","1520","A","Phenylalanine_metabolism",-7.91582368436805,0.0364923182889529,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.64923182889529,"Phenylalanine_metabolism"
+"A_2277A","2277","A","Phenylalanine_metabolism",-8.09539992516459,0.03049386573082,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.049386573082,"Phenylalanine_metabolism"
+"A_2283A","2283","A","Phenylalanine_metabolism",-8.09741786798272,0.0304323928986618,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.04323928986618,"Phenylalanine_metabolism"
+"A_2315A","2315","A","Phenylalanine_metabolism",-8.23683155999596,0.0264721676835754,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.64721676835754,"Phenylalanine_metabolism"
+"A_2347A","2347","A","Phenylalanine_metabolism",-8.32811454846076,0.0241627192025906,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.41627192025906,"Phenylalanine_metabolism"
+"A_9613A","9613","A","Phenylalanine_metabolism",-8.19549812390199,0.0275892813681885,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.75892813681885,"Phenylalanine_metabolism"
+"B_1522A","1522","B","Phenylalanine_metabolism",-7.85853563943534,0.0386439343778919,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.86439343778919,"Phenylalanine_metabolism"
+"B_2317A","2317","B","Phenylalanine_metabolism",-8.08446971818703,0.0308289981918859,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.08289981918859,"Phenylalanine_metabolism"
+"B_2319A","2319","B","Phenylalanine_metabolism",-7.90884965230934,0.0367477063939011,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.67477063939011,"Phenylalanine_metabolism"
+"B_2343A","2343","B","Phenylalanine_metabolism",-8.05956889968125,0.0316063030809344,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.16063030809344,"Phenylalanine_metabolism"
+"B_2351A","2351","B","Phenylalanine_metabolism",-8.19060298660845,0.0277246657806147,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.77246657806147,"Phenylalanine_metabolism"
+"B_2373A","2373","B","Phenylalanine_metabolism",-7.97614407098743,0.0343561620946984,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.43561620946984,"Phenylalanine_metabolism"
+"C_1512A","1512","C","Phenylalanine_metabolism",-7.89007378976063,0.0374441943985233,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.74441943985233,"Phenylalanine_metabolism"
+"C_2323A","2323","C","Phenylalanine_metabolism",-8.02695855197167,0.0326539854132845,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.26539854132845,"Phenylalanine_metabolism"
+"C_2337A","2337","C","Phenylalanine_metabolism",-8.06555640627392,0.0314176255505233,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.14176255505233,"Phenylalanine_metabolism"
+"C_2339A","2339","C","Phenylalanine_metabolism",-8.06115242792258,0.0315562932138703,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.15562932138703,"Phenylalanine_metabolism"
+"C_2349A","2349","C","Phenylalanine_metabolism",-9.16723943602761,0.0104404327103032,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,1.04404327103032,"Phenylalanine_metabolism"
+"C_2353A","2353","C","Phenylalanine_metabolism",-8.25144112803355,0.0260882321437875,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.60882321437875,"Phenylalanine_metabolism"
+"D_1524A","1524","D","Phenylalanine_metabolism",-8.06574323556528,0.0314117563660903,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.14117563660903,"Phenylalanine_metabolism"
+"D_2297A","2297","D","Phenylalanine_metabolism",-8.31802341088745,0.0244077829325277,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.44077829325277,"Phenylalanine_metabolism"
+"D_2325A","2325","D","Phenylalanine_metabolism",-8.33504951883436,0.0239957311586011,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.39957311586011,"Phenylalanine_metabolism"
+"D_2331A","2331","D","Phenylalanine_metabolism",-8.2637895382342,0.0257680647990548,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.57680647990548,"Phenylalanine_metabolism"
+"D_2357A","2357","D","Phenylalanine_metabolism",-8.27383029912978,0.0255106284130886,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.55106284130886,"Phenylalanine_metabolism"
+"D_9633A","9633","D","Phenylalanine_metabolism",-8.16576650896521,0.0284218710449988,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.84218710449988,"Phenylalanine_metabolism"
+"E_1506A","1506","E","Phenylalanine_metabolism",-8.11611310457554,0.0298687373670255,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.98687373670254,"Phenylalanine_metabolism"
+"E_2307A","2307","E","Phenylalanine_metabolism",-8.21922894260696,0.0269422725220494,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,2.69422725220494,"Phenylalanine_metabolism"
+"E_2327A","2327","E","Phenylalanine_metabolism",-8.03118555346498,0.0325162482807978,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.25162482807978,"Phenylalanine_metabolism"
+"E_2329A","2329","E","Phenylalanine_metabolism",-8.0894891801592,0.0306746409271177,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.06746409271177,"Phenylalanine_metabolism"
+"E_2375A","2375","E","Phenylalanine_metabolism",-8.09030714954204,0.0306495602690133,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.06495602690133,"Phenylalanine_metabolism"
+"E_9611A","9611","E","Phenylalanine_metabolism",-8.00715192362605,0.0333071983850312,"Pathway","Phenylalanine metabolism","Phenylalanine
+metabolism
+BH q = 0.184",-2,3.33071983850312,"Phenylalanine_metabolism"
+"A_1520A","1520","A","Tryptophan_metabolism",-9.046641972438,0.0117785901869265,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.17785901869265,"Tryptophan_metabolism"
+"A_2277A","2277","A","Tryptophan_metabolism",-9.15867819868287,0.0105301994415785,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.05301994415785,"Tryptophan_metabolism"
+"A_2283A","2283","A","Tryptophan_metabolism",-9.1230588690643,0.0109120381353768,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.09120381353768,"Tryptophan_metabolism"
+"A_2315A","2315","A","Tryptophan_metabolism",-9.27731091914704,0.0093522274588689,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.93522274588689,"Tryptophan_metabolism"
+"A_2347A","2347","A","Tryptophan_metabolism",-9.32550804013108,0.0089121670271876,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.89121670271876,"Tryptophan_metabolism"
+"A_9613A","9613","A","Tryptophan_metabolism",-9.21903231477791,0.00991345722924662,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.991345722924661,"Tryptophan_metabolism"
+"B_1522A","1522","B","Tryptophan_metabolism",-8.99037650100551,0.0124603171185789,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.24603171185789,"Tryptophan_metabolism"
+"B_2317A","2317","B","Tryptophan_metabolism",-9.16377139652172,0.0104767034011422,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.04767034011422,"Tryptophan_metabolism"
+"B_2319A","2319","B","Tryptophan_metabolism",-9.07873252546061,0.0114066091739456,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.14066091739456,"Tryptophan_metabolism"
+"B_2343A","2343","B","Tryptophan_metabolism",-9.11576233384615,0.0109919493890363,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.09919493890363,"Tryptophan_metabolism"
+"B_2351A","2351","B","Tryptophan_metabolism",-9.22361699539849,0.00986811122191363,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.986811122191363,"Tryptophan_metabolism"
+"B_2373A","2373","B","Tryptophan_metabolism",-9.06896746141208,0.0115185410646957,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.15185410646957,"Tryptophan_metabolism"
+"C_1512A","1512","C","Tryptophan_metabolism",-8.9211450582899,0.0133535251568235,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.33535251568235,"Tryptophan_metabolism"
+"C_2323A","2323","C","Tryptophan_metabolism",-9.06609185422336,0.0115517115339473,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.15517115339473,"Tryptophan_metabolism"
+"C_2337A","2337","C","Tryptophan_metabolism",-9.13836396435909,0.0107462999068251,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.07462999068251,"Tryptophan_metabolism"
+"C_2339A","2339","C","Tryptophan_metabolism",-9.12840032867548,0.0108539073143292,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.08539073143292,"Tryptophan_metabolism"
+"C_2349A","2349","C","Tryptophan_metabolism",-9.67206843968279,0.00630193686657997,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.630193686657997,"Tryptophan_metabolism"
+"C_2353A","2353","C","Tryptophan_metabolism",-9.35717437729389,0.00863437291520183,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.863437291520183,"Tryptophan_metabolism"
+"D_1524A","1524","D","Tryptophan_metabolism",-9.14755029199607,0.0106480329224035,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.06480329224035,"Tryptophan_metabolism"
+"D_2297A","2297","D","Tryptophan_metabolism",-9.36335349312423,0.0085811846223814,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.85811846223814,"Tryptophan_metabolism"
+"D_2325A","2325","D","Tryptophan_metabolism",-9.30038538335776,0.00913890048891721,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.913890048891721,"Tryptophan_metabolism"
+"D_2331A","2331","D","Tryptophan_metabolism",-9.3486579776039,0.00870822069829669,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.870822069829669,"Tryptophan_metabolism"
+"D_2357A","2357","D","Tryptophan_metabolism",-9.26558406503474,0.00946254524194746,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.946254524194746,"Tryptophan_metabolism"
+"D_9633A","9633","D","Tryptophan_metabolism",-9.27492530360991,0.00937456491169491,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.937456491169491,"Tryptophan_metabolism"
+"E_1506A","1506","E","Tryptophan_metabolism",-9.16186533140016,0.0104966917235546,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.04966917235546,"Tryptophan_metabolism"
+"E_2307A","2307","E","Tryptophan_metabolism",-9.26965614393096,0.00942409135792433,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.942409135792433,"Tryptophan_metabolism"
+"E_2327A","2327","E","Tryptophan_metabolism",-9.13206037450424,0.0108142541266457,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.08142541266457,"Tryptophan_metabolism"
+"E_2329A","2329","E","Tryptophan_metabolism",-9.20912380793326,0.0100121730435714,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.00121730435714,"Tryptophan_metabolism"
+"E_2375A","2375","E","Tryptophan_metabolism",-9.30707111030573,0.00907800409082214,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,0.907800409082213,"Tryptophan_metabolism"
+"E_9611A","9611","E","Tryptophan_metabolism",-9.10098523783479,0.0111555845289586,"Pathway","Tryptophan metabolism","Tryptophan metabolism
+BH q = 0.184",-2,1.11555845289586,"Tryptophan_metabolism"
+"A_1520A","1520","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.09650468238578,0.0827993973169933,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,8.27993973169933,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_2277A","2277","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.23962235144156,0.0717582703018851,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.17582703018851,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_2283A","2283","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.2391667860657,0.0717909683327463,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.17909683327463,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_2315A","2315","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.3448024590414,0.0645940955159152,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,6.45940955159152,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_2347A","2347","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.55652868139871,0.0522686509729651,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.22686509729651,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_9613A","9613","A","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.37490752359739,0.0626784658558881,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,6.26784658558881,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_1522A","1522","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-6.98061488956114,0.0929731345309347,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,9.29731345309347,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_2317A","2317","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.26295077005231,0.0701036383459198,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.01036383459198,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_2319A","2319","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-6.98401399674384,0.0926576453760404,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,9.26576453760404,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_2343A","2343","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.2576735069022,0.0704745715885592,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.04745715885592,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_2351A","2351","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.36425374212744,0.063349798298713,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,6.3349798298713,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"B_2373A","2373","B","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.13720853648672,0.0794968126563423,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.94968126563423,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_1512A","1512","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.01196327533548,0.0901037865339072,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,9.01037865339072,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_2323A","2323","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.18696127947283,0.0756384071674996,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.56384071674996,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_2337A","2337","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.25051922532148,0.0709805744030338,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.09805744030338,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_2339A","2339","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.24152448704045,0.0716219060741704,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.16219060741704,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_2349A","2349","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-8.93492899710696,0.0131707237391487,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,1.31707237391487,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"C_2353A","2353","C","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.39086949854677,0.0616859361941824,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,6.16859361941824,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_1524A","1524","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.21078793297591,0.0738574978553961,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.38574978553961,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_2297A","2297","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.51187602085304,0.0546554778163967,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.46554778163967,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_2325A","2325","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.5453738011365,0.0528549655709569,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.28549655709569,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_2331A","2331","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.45106633997256,0.0580821928216581,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.80821928216581,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_2357A","2357","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.55434198056539,0.0523830719322141,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.23830719322141,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"D_9633A","9633","D","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.4341916477835,0.0590706282640393,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.90706282640393,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_1506A","1506","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.33466006250853,0.0652525680464268,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,6.52525680464268,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_2307A","2307","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.45747535330735,0.0577111336052012,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,5.77111336052012,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_2327A","2327","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.19032117762814,0.0753846962828302,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.53846962828302,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_2329A","2329","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.20138915258446,0.0745549406798083,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.45549406798084,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_2375A","2375","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.15004119027864,0.0784831753206535,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.84831753206535,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"E_9611A","9611","E","Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",-7.20338748536553,0.0744061038601346,"Pathway","Phe / Tyr / Trp biosynthesis","Phe / Tyr / Trp
+biosynthesis
+BH q = 0.184",-2,7.44061038601346,"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis"
+"A_1520A","1520","A","Nitrogen_metabolism",-7.70857651172584,0.0448960111936668,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,4.48960111936668,"Nitrogen_metabolism"
+"A_2277A","2277","A","Nitrogen_metabolism",-7.87429284536993,0.0380397862889552,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.80397862889552,"Nitrogen_metabolism"
+"A_2283A","2283","A","Nitrogen_metabolism",-7.86807761096438,0.0382769487240939,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.82769487240939,"Nitrogen_metabolism"
+"A_2315A","2315","A","Nitrogen_metabolism",-8.01083032935261,0.0331849060540528,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.31849060540528,"Nitrogen_metabolism"
+"A_2347A","2347","A","Nitrogen_metabolism",-8.13480922320148,0.0293154957604924,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,2.93154957604924,"Nitrogen_metabolism"
+"A_9613A","9613","A","Nitrogen_metabolism",-7.9825919044015,0.0341353519233719,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.41353519233719,"Nitrogen_metabolism"
+"B_1522A","1522","B","Nitrogen_metabolism",-7.6238817515327,0.0488641360571746,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,4.88641360571746,"Nitrogen_metabolism"
+"B_2317A","2317","B","Nitrogen_metabolism",-7.91398406634245,0.0365595120019061,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.65595120019061,"Nitrogen_metabolism"
+"B_2319A","2319","B","Nitrogen_metabolism",-7.67729159706358,0.0463227808880869,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,4.63227808880869,"Nitrogen_metabolism"
+"B_2343A","2343","B","Nitrogen_metabolism",-7.87220108159167,0.0381194398151843,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.81194398151843,"Nitrogen_metabolism"
+"B_2351A","2351","B","Nitrogen_metabolism",-8.01339939596424,0.0330997612380816,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.30997612380816,"Nitrogen_metabolism"
+"B_2373A","2373","B","Nitrogen_metabolism",-7.79014049517014,0.041379474373172,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,4.1379474373172,"Nitrogen_metabolism"
+"C_1512A","1512","C","Nitrogen_metabolism",-7.63359830497076,0.0483916442811448,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,4.83916442811448,"Nitrogen_metabolism"
+"C_2323A","2323","C","Nitrogen_metabolism",-7.8346724147845,0.0395771942736976,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.95771942736976,"Nitrogen_metabolism"
+"C_2337A","2337","C","Nitrogen_metabolism",-7.87336407553337,0.0380751329069451,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.80751329069451,"Nitrogen_metabolism"
+"C_2339A","2339","C","Nitrogen_metabolism",-7.86195511874194,0.038512017915308,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.8512017915308,"Nitrogen_metabolism"
+"C_2349A","2349","C","Nitrogen_metabolism",-9.17931033127673,0.0103151649089797,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,1.03151649089797,"Nitrogen_metabolism"
+"C_2353A","2353","C","Nitrogen_metabolism",-8.03828637954297,0.0322861738829175,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.22861738829175,"Nitrogen_metabolism"
+"D_1524A","1524","D","Nitrogen_metabolism",-7.86562674416864,0.0383708754807323,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.83708754807323,"Nitrogen_metabolism"
+"D_2297A","2297","D","Nitrogen_metabolism",-8.13100439800239,0.0294272485626072,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,2.94272485626071,"Nitrogen_metabolism"
+"D_2325A","2325","D","Nitrogen_metabolism",-8.12092702951697,0.0297252970397356,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,2.97252970397356,"Nitrogen_metabolism"
+"D_2331A","2331","D","Nitrogen_metabolism",-8.09847581891979,0.0304002139449559,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.04002139449559,"Nitrogen_metabolism"
+"D_2357A","2357","D","Nitrogen_metabolism",-8.12514297424022,0.0296002406312179,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,2.96002406312179,"Nitrogen_metabolism"
+"D_9633A","9633","D","Nitrogen_metabolism",-8.01060709766277,0.0331923148036113,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.31923148036113,"Nitrogen_metabolism"
+"E_1506A","1506","E","Nitrogen_metabolism",-7.92273585054629,0.0362409470813247,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.62409470813247,"Nitrogen_metabolism"
+"E_2307A","2307","E","Nitrogen_metabolism",-8.08017181531887,0.0309617833761492,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.09617833761492,"Nitrogen_metabolism"
+"E_2327A","2327","E","Nitrogen_metabolism",-7.82581352780414,0.0399293617676128,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.99293617676128,"Nitrogen_metabolism"
+"E_2329A","2329","E","Nitrogen_metabolism",-7.87234000540203,0.0381141444851887,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.81141444851887,"Nitrogen_metabolism"
+"E_2375A","2375","E","Nitrogen_metabolism",-7.84597746260101,0.0391322917604372,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.91322917604372,"Nitrogen_metabolism"
+"E_9611A","9611","E","Nitrogen_metabolism",-7.82590580015427,0.0399256775615408,"Pathway","Nitrogen metabolism","Nitrogen metabolism
+BH q = 0.184",-2,3.99256775615408,"Nitrogen_metabolism"
+"A_1520A","1520","A","Biosynthesis_of_amino_acids",-5.38036007173928,0.460616308220614,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.60616308220613,"Biosynthesis_of_amino_acids"
+"A_2277A","2277","A","Biosynthesis_of_amino_acids",-5.48560327440766,0.414603312899781,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.14603312899781,"Biosynthesis_of_amino_acids"
+"A_2283A","2283","A","Biosynthesis_of_amino_acids",-5.53393820476241,0.39504009268072,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.9504009268072,"Biosynthesis_of_amino_acids"
+"A_2315A","2315","A","Biosynthesis_of_amino_acids",-5.61664520024054,0.363682147400526,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.63682147400526,"Biosynthesis_of_amino_acids"
+"A_2347A","2347","A","Biosynthesis_of_amino_acids",-5.78271206999829,0.308034994483354,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.08034994483354,"Biosynthesis_of_amino_acids"
+"A_9613A","9613","A","Biosynthesis_of_amino_acids",-5.62481271094012,0.360723866909288,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.60723866909288,"Biosynthesis_of_amino_acids"
+"B_1522A","1522","B","Biosynthesis_of_amino_acids",-5.26391349775058,0.517501263778007,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,5.17501263778007,"Biosynthesis_of_amino_acids"
+"B_2317A","2317","B","Biosynthesis_of_amino_acids",-5.51775521768797,0.401485029908111,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.01485029908111,"Biosynthesis_of_amino_acids"
+"B_2319A","2319","B","Biosynthesis_of_amino_acids",-5.27571386585616,0.511430447748182,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,5.11430447748182,"Biosynthesis_of_amino_acids"
+"B_2343A","2343","B","Biosynthesis_of_amino_acids",-5.5196192132055,0.400737360654556,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.00737360654556,"Biosynthesis_of_amino_acids"
+"B_2351A","2351","B","Biosynthesis_of_amino_acids",-5.62459587650764,0.360802092744973,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.60802092744973,"Biosynthesis_of_amino_acids"
+"B_2373A","2373","B","Biosynthesis_of_amino_acids",-5.43027945801124,0.438187108256957,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.38187108256957,"Biosynthesis_of_amino_acids"
+"C_1512A","1512","C","Biosynthesis_of_amino_acids",-5.280984843242,0.50874180154527,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,5.0874180154527,"Biosynthesis_of_amino_acids"
+"C_2323A","2323","C","Biosynthesis_of_amino_acids",-5.50860157604177,0.405176951483198,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.05176951483198,"Biosynthesis_of_amino_acids"
+"C_2337A","2337","C","Biosynthesis_of_amino_acids",-5.52760106943298,0.397551464254785,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.97551464254785,"Biosynthesis_of_amino_acids"
+"C_2339A","2339","C","Biosynthesis_of_amino_acids",-5.53261406397255,0.39556352785552,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.9556352785552,"Biosynthesis_of_amino_acids"
+"C_2349A","2349","C","Biosynthesis_of_amino_acids",-7.04127488968237,0.0875010309244484,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,0.875010309244484,"Biosynthesis_of_amino_acids"
+"C_2353A","2353","C","Biosynthesis_of_amino_acids",-5.62019959431257,0.36239177234095,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.6239177234095,"Biosynthesis_of_amino_acids"
+"D_1524A","1524","D","Biosynthesis_of_amino_acids",-5.4936402034601,0.411284529765342,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.11284529765342,"Biosynthesis_of_amino_acids"
+"D_2297A","2297","D","Biosynthesis_of_amino_acids",-5.74238605009115,0.320710682111217,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.20710682111217,"Biosynthesis_of_amino_acids"
+"D_2325A","2325","D","Biosynthesis_of_amino_acids",-5.81677659490376,0.297718637212077,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,2.97718637212077,"Biosynthesis_of_amino_acids"
+"D_2331A","2331","D","Biosynthesis_of_amino_acids",-5.69866577077943,0.33504327218703,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.3504327218703,"Biosynthesis_of_amino_acids"
+"D_2357A","2357","D","Biosynthesis_of_amino_acids",-5.80757032316356,0.300472171331993,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.00472171331993,"Biosynthesis_of_amino_acids"
+"D_9633A","9633","D","Biosynthesis_of_amino_acids",-5.6442493502466,0.353780305562841,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.53780305562841,"Biosynthesis_of_amino_acids"
+"E_1506A","1506","E","Biosynthesis_of_amino_acids",-5.56228582993443,0.383998879661694,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.83998879661694,"Biosynthesis_of_amino_acids"
+"E_2307A","2307","E","Biosynthesis_of_amino_acids",-5.71357974035699,0.330083523718628,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,3.30083523718628,"Biosynthesis_of_amino_acids"
+"E_2327A","2327","E","Biosynthesis_of_amino_acids",-5.45760769408118,0.42637437329327,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.2637437329327,"Biosynthesis_of_amino_acids"
+"E_2329A","2329","E","Biosynthesis_of_amino_acids",-5.45123761470984,0.429099080981597,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.29099080981597,"Biosynthesis_of_amino_acids"
+"E_2375A","2375","E","Biosynthesis_of_amino_acids",-5.48547852901043,0.414655035980784,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.14655035980784,"Biosynthesis_of_amino_acids"
+"E_9611A","9611","E","Biosynthesis_of_amino_acids",-5.46388388134216,0.42370674789805,"Pathway","Amino-acid biosynthesis","Amino-acid
+biosynthesis
+BH q = 0.184",-1,4.2370674789805,"Biosynthesis_of_amino_acids"
+"A_1520A","1520","A","glutamine_synthetase",-9.47903244968537,0.00764378588620263,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,7.64378588620263,"glutamine_synthetase"
+"A_2277A","2277","A","glutamine_synthetase",-9.63584907295706,0.0065343729637473,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.5343729637473,"glutamine_synthetase"
+"A_2283A","2283","A","glutamine_synthetase",-9.67957821126942,0.00625478802027802,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.25478802027802,"glutamine_synthetase"
+"A_2315A","2315","A","glutamine_synthetase",-9.78310355117944,0.00563964947519682,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.63964947519682,"glutamine_synthetase"
+"A_2347A","2347","A","glutamine_synthetase",-9.91825092484378,0.00492672535974866,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,4.92672535974866,"glutamine_synthetase"
+"A_9613A","9613","A","glutamine_synthetase",-9.7675076773836,0.00572829418576752,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.72829418576752,"glutamine_synthetase"
+"B_1522A","1522","B","glutamine_synthetase",-9.34635632821864,0.00872828705311162,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,8.72828705311162,"glutamine_synthetase"
+"B_2317A","2317","B","glutamine_synthetase",-9.62571191315119,0.00660094982673164,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.60094982673164,"glutamine_synthetase"
+"B_2319A","2319","B","glutamine_synthetase",-9.43761676272378,0.00796700551195663,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,7.96700551195663,"glutamine_synthetase"
+"B_2343A","2343","B","glutamine_synthetase",-9.64196807026775,0.00649451123443792,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.49451123443792,"glutamine_synthetase"
+"B_2351A","2351","B","glutamine_synthetase",-9.78693735552747,0.00561806955554421,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.61806955554421,"glutamine_synthetase"
+"B_2373A","2373","B","glutamine_synthetase",-9.55803829048617,0.00706312207835154,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,7.06312207835154,"glutamine_synthetase"
+"C_1512A","1512","C","glutamine_synthetase",-9.35119802112909,0.00868612950686731,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,8.68612950686731,"glutamine_synthetase"
+"C_2323A","2323","C","glutamine_synthetase",-9.63801666282711,0.00652022446271736,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.52022446271736,"glutamine_synthetase"
+"C_2337A","2337","C","glutamine_synthetase",-9.68251607497472,0.0062364392718274,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.2364392718274,"glutamine_synthetase"
+"C_2339A","2339","C","glutamine_synthetase",-9.61040723275856,0.00670275229411171,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.70275229411171,"glutamine_synthetase"
+"C_2349A","2349","C","glutamine_synthetase",-11.0256623799917,0.00162785481719829,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,1.62785481719829,"glutamine_synthetase"
+"C_2353A","2353","C","glutamine_synthetase",-9.78835634187891,0.00561010324490317,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.61010324490317,"glutamine_synthetase"
+"D_1524A","1524","D","glutamine_synthetase",-9.64793893675735,0.00645584891358311,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.4558489135831,"glutamine_synthetase"
+"D_2297A","2297","D","glutamine_synthetase",-9.89512241195552,0.00504200113066346,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.04200113066346,"glutamine_synthetase"
+"D_2325A","2325","D","glutamine_synthetase",-9.86983613386834,0.0051711201634798,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.1711201634798,"glutamine_synthetase"
+"D_2331A","2331","D","glutamine_synthetase",-9.81504767636649,0.00546234283620529,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.46234283620529,"glutamine_synthetase"
+"D_2357A","2357","D","glutamine_synthetase",-9.90514896749631,0.0049916998221282,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,4.9916998221282,"glutamine_synthetase"
+"D_9633A","9633","D","glutamine_synthetase",-9.76072722429323,0.00576726659175584,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.76726659175584,"glutamine_synthetase"
+"E_1506A","1506","E","glutamine_synthetase",-9.63183465137663,0.00656065741472212,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.56065741472212,"glutamine_synthetase"
+"E_2307A","2307","E","glutamine_synthetase",-9.86386024682711,0.00520211471117364,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,5.20211471117364,"glutamine_synthetase"
+"E_2327A","2327","E","glutamine_synthetase",-9.565413687477,0.0070112203821084,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,7.0112203821084,"glutamine_synthetase"
+"E_2329A","2329","E","glutamine_synthetase",-9.5816224596623,0.00689849316112009,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.89849316112009,"glutamine_synthetase"
+"E_2375A","2375","E","glutamine_synthetase",-9.68248448342918,0.00623663629369476,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.23663629369476,"glutamine_synthetase"
+"E_9611A","9611","E","glutamine_synthetase",-9.57477772557175,0.00694587348029429,"Enzyme","Glutamine synthetase (GS)","Glutamine synthetase
+(GS)
+BH q = 0.184",-3,6.94587348029429,"glutamine_synthetase"
+"A_1520A","1520","A","glutamate_synthase",-9.48020544915773,0.00763482498598433,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,7.63482498598433,"glutamate_synthase"
+"A_2277A","2277","A","glutamate_synthase",-9.80282538035073,0.00552951486932225,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.52951486932225,"glutamate_synthase"
+"A_2283A","2283","A","glutamate_synthase",-9.73414044791206,0.00592265611920125,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.92265611920125,"glutamate_synthase"
+"A_2315A","2315","A","glutamate_synthase",-9.82182871590791,0.00542542777613897,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.42542777613897,"glutamate_synthase"
+"A_2347A","2347","A","glutamate_synthase",-10.1053038877091,0.00408622506661554,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.08622506661554,"glutamate_synthase"
+"A_9613A","9613","A","glutamate_synthase",-9.86210367971907,0.00521126060510406,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.21126060510406,"glutamate_synthase"
+"B_1522A","1522","B","glutamate_synthase",-9.42728848704963,0.00804971734120813,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,8.04971734120813,"glutamate_synthase"
+"B_2317A","2317","B","glutamate_synthase",-9.74236211933122,0.00587416161277803,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.87416161277803,"glutamate_synthase"
+"B_2319A","2319","B","glutamate_synthase",-9.41109298073212,0.00818114800959013,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,8.18114800959013,"glutamate_synthase"
+"B_2343A","2343","B","glutamate_synthase",-9.7750528359715,0.00568523594260754,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.68523594260754,"glutamate_synthase"
+"B_2351A","2351","B","glutamate_synthase",-9.87730670949358,0.00513263285938548,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.13263285938548,"glutamate_synthase"
+"B_2373A","2373","B","glutamate_synthase",-9.62763578098357,0.00658826267980699,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.58826267980699,"glutamate_synthase"
+"C_1512A","1512","C","glutamate_synthase",-9.39474521199818,0.00831599071083595,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,8.31599071083595,"glutamate_synthase"
+"C_2323A","2323","C","glutamate_synthase",-9.70988948767019,0.00606804196530293,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.06804196530293,"glutamate_synthase"
+"C_2337A","2337","C","glutamate_synthase",-9.80362270683315,0.00552510779785288,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.52510779785288,"glutamate_synthase"
+"C_2339A","2339","C","glutamate_synthase",-9.74582730652821,0.00585384176952725,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.85384176952725,"glutamate_synthase"
+"C_2349A","2349","C","glutamate_synthase",-11.9864902972515,0.000622778206579652,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,0.622778206579652,"glutamate_synthase"
+"C_2353A","2353","C","glutamate_synthase",-9.9576889126223,0.00473620675348571,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.73620675348571,"glutamate_synthase"
+"D_1524A","1524","D","glutamate_synthase",-9.6898878127704,0.0061906349130251,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.1906349130251,"glutamate_synthase"
+"D_2297A","2297","D","glutamate_synthase",-9.99899837655836,0.00454454261777182,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.54454261777182,"glutamate_synthase"
+"D_2325A","2325","D","glutamate_synthase",-10.0661080791133,0.00424956823434585,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.24956823434585,"glutamate_synthase"
+"D_2331A","2331","D","glutamate_synthase",-9.95051739168676,0.00477029464428773,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.77029464428773,"glutamate_synthase"
+"D_2357A","2357","D","glutamate_synthase",-10.105843295802,0.00408402151810446,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.08402151810447,"glutamate_synthase"
+"D_9633A","9633","D","glutamate_synthase",-9.96026515151595,0.00472402085706897,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.72402085706897,"glutamate_synthase"
+"E_1506A","1506","E","glutamate_synthase",-9.78952235331595,0.00560356561257441,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,5.60356561257441,"glutamate_synthase"
+"E_2307A","2307","E","glutamate_synthase",-9.97433812757408,0.00465800543092371,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,4.65800543092371,"glutamate_synthase"
+"E_2327A","2327","E","glutamate_synthase",-9.65385965618196,0.00641773857515813,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.41773857515813,"glutamate_synthase"
+"E_2329A","2329","E","glutamate_synthase",-9.61954714199382,0.00664176886256699,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.64176886256699,"glutamate_synthase"
+"E_2375A","2375","E","glutamate_synthase",-9.63102367767097,0.00656598009336179,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.56598009336179,"glutamate_synthase"
+"E_9611A","9611","E","glutamate_synthase",-9.6512061226031,0.00643479087438618,"Enzyme","Glutamate synthase (GOGAT)","Glutamate synthase
+(GOGAT)
+BH q = 0.184",-3,6.43479087438618,"glutamate_synthase"
+"A_1520A","1520","A","glutamate_dehydrogenase",-9.02534960626689,0.0120320732931013,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.20320732931013,"glutamate_dehydrogenase"
+"A_2277A","2277","A","glutamate_dehydrogenase",-9.25753032322641,0.00953906184707727,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.953906184707727,"glutamate_dehydrogenase"
+"A_2283A","2283","A","glutamate_dehydrogenase",-9.24641453745467,0.00964568753127131,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.964568753127131,"glutamate_dehydrogenase"
+"A_2315A","2315","A","glutamate_dehydrogenase",-9.41885592796894,0.00811788406429754,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.811788406429754,"glutamate_dehydrogenase"
+"A_2347A","2347","A","glutamate_dehydrogenase",-9.54573862969803,0.00715053254158015,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.715053254158015,"glutamate_dehydrogenase"
+"A_9613A","9613","A","glutamate_dehydrogenase",-9.30089330104041,0.00913425985838781,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.913425985838781,"glutamate_dehydrogenase"
+"B_1522A","1522","B","glutamate_dehydrogenase",-8.95723120207888,0.0128802388259451,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.28802388259451,"glutamate_dehydrogenase"
+"B_2317A","2317","B","glutamate_dehydrogenase",-9.27020320856105,0.00941893718083418,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.941893718083418,"glutamate_dehydrogenase"
+"B_2319A","2319","B","glutamate_dehydrogenase",-9.0137533881679,0.0121724119654827,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.21724119654827,"glutamate_dehydrogenase"
+"B_2343A","2343","B","glutamate_dehydrogenase",-9.20254433040806,0.0100782650982599,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.00782650982599,"glutamate_dehydrogenase"
+"B_2351A","2351","B","glutamate_dehydrogenase",-9.39883655647288,0.00828203663446424,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.828203663446424,"glutamate_dehydrogenase"
+"B_2373A","2373","B","glutamate_dehydrogenase",-9.15984324951196,0.0105179383677625,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.05179383677625,"glutamate_dehydrogenase"
+"C_1512A","1512","C","glutamate_dehydrogenase",-9.01228676789704,0.0121902773692959,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.21902773692959,"glutamate_dehydrogenase"
+"C_2323A","2323","C","glutamate_dehydrogenase",-9.22314264816382,0.00987279324354736,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.987279324354736,"glutamate_dehydrogenase"
+"C_2337A","2337","C","glutamate_dehydrogenase",-9.24146290814241,0.00969356784534144,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.969356784534144,"glutamate_dehydrogenase"
+"C_2339A","2339","C","glutamate_dehydrogenase",-9.25959017931866,0.00951943297568277,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.951943297568277,"glutamate_dehydrogenase"
+"C_2349A","2349","C","glutamate_dehydrogenase",-10.5604952129523,0.0025920012273845,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.25920012273845,"glutamate_dehydrogenase"
+"C_2353A","2353","C","glutamate_dehydrogenase",-9.48102514379803,0.00762856932507983,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.762856932507983,"glutamate_dehydrogenase"
+"D_1524A","1524","D","glutamate_dehydrogenase",-9.24980559771675,0.00961303382022581,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.961303382022581,"glutamate_dehydrogenase"
+"D_2297A","2297","D","glutamate_dehydrogenase",-9.4975766512153,0.00750334419444917,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.750334419444917,"glutamate_dehydrogenase"
+"D_2325A","2325","D","glutamate_dehydrogenase",-9.5440005943151,0.00716297122645018,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.716297122645018,"glutamate_dehydrogenase"
+"D_2331A","2331","D","glutamate_dehydrogenase",-9.47396462055467,0.00768262161027467,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.768262161027467,"glutamate_dehydrogenase"
+"D_2357A","2357","D","glutamate_dehydrogenase",-9.50719551765434,0.00743151653294391,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.743151653294391,"glutamate_dehydrogenase"
+"D_9633A","9633","D","glutamate_dehydrogenase",-9.39558929618036,0.00830897427626508,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.830897427626508,"glutamate_dehydrogenase"
+"E_1506A","1506","E","glutamate_dehydrogenase",-9.30523950802565,0.00909464662040838,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.909464662040838,"glutamate_dehydrogenase"
+"E_2307A","2307","E","glutamate_dehydrogenase",-9.44388569555952,0.00791721711262086,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.791721711262086,"glutamate_dehydrogenase"
+"E_2327A","2327","E","glutamate_dehydrogenase",-9.24151760898496,0.00969303761351517,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.969303761351517,"glutamate_dehydrogenase"
+"E_2329A","2329","E","glutamate_dehydrogenase",-9.27288015091104,0.00939375694705679,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.939375694705679,"glutamate_dehydrogenase"
+"E_2375A","2375","E","glutamate_dehydrogenase",-9.25608664898819,0.00955284309034207,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,0.955284309034207,"glutamate_dehydrogenase"
+"E_9611A","9611","E","glutamate_dehydrogenase",-9.16871671930044,0.0104250206205132,"Enzyme","Glutamate dehydrogenase (GDH)","Glutamate
+dehydrogenase (GDH)
+BH q = 0.184",-2,1.04250206205132,"glutamate_dehydrogenase"
+"A_1520A","1520","A","urease_structural_genes",-15.5784260191195,1.71544004178812e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.171544004178812,"urease_structural_genes"
+"A_2277A","2277","A","urease_structural_genes",-14.9182754623436,3.3195199815833e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.33195199815833,"urease_structural_genes"
+"A_2283A","2283","A","urease_structural_genes",-16.2296419224612,8.94450002899807e-06,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.0894450002899807,"urease_structural_genes"
+"A_2315A","2315","A","urease_structural_genes",-14.5698865472201,4.70303997931603e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.470303997931603,"urease_structural_genes"
+"A_2347A","2347","A","urease_structural_genes",-15.0766429607714,2.83332997685169e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.283332997685169,"urease_structural_genes"
+"A_9613A","9613","A","urease_structural_genes",-15.8199856763533,1.34730994961196e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.134730994961196,"urease_structural_genes"
+"B_1522A","1522","B","urease_structural_genes",-14.6636801139744,4.28198007511449e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.428198007511449,"urease_structural_genes"
+"B_2317A","2317","B","urease_structural_genes",-14.9885113004623,3.09437005940881e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.309437005940881,"urease_structural_genes"
+"B_2319A","2319","B","urease_structural_genes",-14.4323561851053,5.39643994036394e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.539643994036394,"urease_structural_genes"
+"B_2343A","2343","B","urease_structural_genes",-14.7984353484891,3.742149962223e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.3742149962223,"urease_structural_genes"
+"B_2351A","2351","B","urease_structural_genes",-16.5838204553922,6.27679995033168e-06,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.0627679995033168,"urease_structural_genes"
+"B_2373A","2373","B","urease_structural_genes",-14.9689898907382,3.15536999032879e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.315536999032879,"urease_structural_genes"
+"C_1512A","1512","C","urease_structural_genes",-13.9459689734924,8.77692990589376e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.877692990589376,"urease_structural_genes"
+"C_2323A","2323","C","urease_structural_genes",-14.8510832665553,3.55022997969978e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.355022997969978,"urease_structural_genes"
+"C_2337A","2337","C","urease_structural_genes",-15.0649550753228,2.86663989511825e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.286663989511825,"urease_structural_genes"
+"C_2339A","2339","C","urease_structural_genes",-15.3557722534216,2.14325006206852e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.214325006206852,"urease_structural_genes"
+"C_2349A","2349","C","urease_structural_genes",-17.0516597009379,3.9315000415363e-06,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.039315000415363,"urease_structural_genes"
+"C_2353A","2353","C","urease_structural_genes",-13.780677350245,0.000103544698983088,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,1.03544698983088,"urease_structural_genes"
+"D_1524A","1524","D","urease_structural_genes",-14.6083211779336,4.52571000952209e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.452571000952209,"urease_structural_genes"
+"D_2297A","2297","D","urease_structural_genes",-15.3375329824804,2.18270005656467e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.218270005656467,"urease_structural_genes"
+"D_2325A","2325","D","urease_structural_genes",-16.5325056139343,6.60730020888319e-06,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.0660730020888319,"urease_structural_genes"
+"D_2331A","2331","D","urease_structural_genes",-14.8338589443365,3.6119099578165e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.36119099578165,"urease_structural_genes"
+"D_2357A","2357","D","urease_structural_genes",-16.7291284207083,5.42790002406188e-06,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.0542790002406188,"urease_structural_genes"
+"D_9633A","9633","D","urease_structural_genes",-14.3402745042786,5.91695019673268e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.591695019673268,"urease_structural_genes"
+"E_1506A","1506","E","urease_structural_genes",-14.5806135644197,4.65286001044102e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.465286001044102,"urease_structural_genes"
+"E_2307A","2307","E","urease_structural_genes",-14.4203813649908,5.46144980176029e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.546144980176029,"urease_structural_genes"
+"E_2327A","2327","E","urease_structural_genes",-14.7588308066801,3.89333004559479e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.389333004559479,"urease_structural_genes"
+"E_2329A","2329","E","urease_structural_genes",-14.4587482067229,5.25587997037786e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.525587997037786,"urease_structural_genes"
+"E_2375A","2375","E","urease_structural_genes",-15.3671372151619,2.11902999785766e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.211902999785766,"urease_structural_genes"
+"E_9611A","9611","E","urease_structural_genes",-15.107848370754,2.746280031747e-05,"Enzyme","Urease structural genes","Urease structural
+genes
+BH q = 0.405",-4,0.2746280031747,"urease_structural_genes"

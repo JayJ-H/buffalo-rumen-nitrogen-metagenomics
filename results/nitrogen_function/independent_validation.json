@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "diet_responses": 23,
+  "diet_contrasts": 230,
+  "diet_LOO_fits": 690,
+  "carbon_pairs": 80,
+  "carbon_LOO_fits": 2400,
+  "carbon_bootstrap_fits": 160000,
+  "permutations": 9999,
+  "sources_and_scores_reconstructed": true,
+  "all_HC3_and_P_reproduced": true,
+  "all_BH_families_reproduced": true,
+  "all_residual_permutations_reproduced": true,
+  "all_LOO_and_bootstrap_summaries_reproduced": true,
+  "historical_hashes_unchanged": true,
+  "max_absolute_numeric_error": 1.1641532182693481e-10
+}

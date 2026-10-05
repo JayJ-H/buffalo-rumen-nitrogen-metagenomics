@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "input_hashes_unchanged": true,
+  "all_600_profile_values_verified": true,
+  "all_230_volcano_values_verified": true,
+  "all_80_heatmap_pairs_verified": true,
+  "residuals_match_original_model": true,
+  "PCA_counts_and_variance_verified": true,
+  "all_6_TIFF_dimensions_and_600dpi_verified": true,
+  "all_6_PNG_dimensions_and_nonblank_verified": true,
+  "PDF_signatures_verified": true,
+  "SVG_editable_text_verified": true,
+  "export_metadata": [
+    ["Figure1_nitrogen_composition", "4110", "4606", "600", "600", "2"],
+    ["Figure2_carbon_nitrogen_associations", "4110", "4724", "600", "600", "2"],
+    ["FigureS1_functional_PCA", "4110", "3661", "600", "600", "2"],
+    ["FigureS2_complete_volcano_atlas", "4110", "4842", "600", "600", "2"],
+    ["FigureS3_individual_function_heatmap", "4110", "3425", "600", "600", "2"],
+    ["FigureS4_complete_diet_violin_atlas", "4110", "5314", "600", "600", "2"]
+  ]
+}

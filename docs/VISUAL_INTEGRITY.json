@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "raster_exports": 19,
+  "PDF_pages": 6,
+  "all_raster_pixels_match_existing_figures": true,
+  "all_PDF_renderings_match_existing_figures": true
+}

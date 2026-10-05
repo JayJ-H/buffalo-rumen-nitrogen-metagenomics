@@ -1,0 +1,17 @@
+Feature_ID,Pathway_ID,Catalog_gene_members,Catalog_KO_members
+Arginine_biosynthesis,map00220,10930,36
+"Alanine,_aspartate_and_glutamate_metabolism",map00250,18309,48
+"Glycine,_serine_and_threonine_metabolism",map00260,19978,59
+Cysteine_and_methionine_metabolism,map00270,25364,74
+"Valine,_leucine_and_isoleucine_degradation",map00280,4752,37
+"Valine,_leucine_and_isoleucine_biosynthesis",map00290,5635,15
+Lysine_biosynthesis,map00300,12821,29
+Lysine_degradation,map00310,3494,32
+Arginine_and_proline_metabolism,map00330,7997,54
+Histidine_metabolism,map00340,8394,27
+Tyrosine_metabolism,map00350,3406,33
+Phenylalanine_metabolism,map00360,4800,42
+Tryptophan_metabolism,map00380,2284,18
+"Phenylalanine,_tyrosine_and_tryptophan_biosynthesis",map00400,13980,44
+Nitrogen_metabolism,map00910,5784,32
+Biosynthesis_of_amino_acids,map01230,80108,183

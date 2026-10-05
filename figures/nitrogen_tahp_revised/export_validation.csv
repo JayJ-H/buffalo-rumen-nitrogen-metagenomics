@@ -1,0 +1,7 @@
+"Figure","Width_mm","Height_mm","TIFF_dpi","PNG_dpi","Preview_dpi","Preview_width_px","Preview_height_px","Pixel_SD","Edge_ink_fraction","SVG_text_elements","Panels"
+"Figure1_nitrogen_composition",174,195,600,300,240,1644,1842,0.155251903423864,0,88,4
+"Figure2_carbon_nitrogen_associations",174,200,600,300,240,1644,1889,0.175068020801033,0,145,4
+"FigureS1_functional_PCA",174,155,600,300,240,1644,1464,0.179235847930423,0,58,3
+"FigureS2_complete_volcano_atlas",174,205,600,300,240,1644,1937,0.0982098352724662,0,82,10
+"FigureS3_individual_function_heatmap",174,145,600,300,240,1644,1370,0.13005686453124,0,60,1
+"FigureS4_complete_diet_violin_atlas",174,225,600,300,240,1644,2125,0.180048968223979,0,118,20
